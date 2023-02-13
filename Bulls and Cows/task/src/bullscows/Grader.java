@@ -35,7 +35,6 @@ public class Grader {
                         cowsCounter++;
                     }
                 }
-
             }
         }
 
@@ -43,17 +42,14 @@ public class Grader {
 
         String strBullPlural = bullCounter == 1 ? "" : "s";
         String strCowPlural = cowsCounter == 1 ? "" : "s";
-        String grade = String.format("Grade: %d bull%s and %d cow%s. The secret code is %s.",
-                bullCounter, strBullPlural, cowsCounter, strCowPlural, Main.SECRET_NUMBER);
-
+        String grade = String.format("Grade: %d bull%s and %d cow%s",
+                bullCounter, strBullPlural, cowsCounter, strCowPlural);
 
         if (this.isUnsolvedCode == false) {
             StringBuilder sb = new StringBuilder(grade);
             sb.append("\nCongratulations! You guessed the secret code.");
             grade = sb.toString();
         }
-
         return grade;
     }
-
 }
