@@ -1,28 +1,27 @@
 package bullscows;
 
-import java.util.Random;
-import java.util.Scanner;
-
 public class Main {
 
     // This is the Secret Number
-    //private final  static String SECRET_NUMBER = Helper.generateSecretNumber();
-    //private final  static String SECRET_NUMBER = "9305";
+    public static final String SECRET_NUMBER = Helper.generateSecretNumber();
 
     public static void main(String[] args) {
 
-        /*
-        String tryNum = Helper.guessTheNumber();
+        // The secret code has not yet been guessed
+        boolean isUnsolvedCode = true;
 
-        Grader grader = new Grader(tryNum, SECRET_NUMBER);
-        String grade = grader.determineTheGrade();
-        System.out.println(grade);
-        */
+        //System.out.println(SECRET_NUMBER);
+        System.out.println("Okay, let's start a game!");
 
-        Scanner scanner = new Scanner(System.in);
-        System.out.println(Helper.generateSecretNumber(scanner.nextInt()));
-
-
+        int turnCounter = 1;
+        while (isUnsolvedCode) {
+            String tryNum = Helper.guessTheNumber(turnCounter);
+            Grader grader = new Grader(tryNum);
+            String grade = grader.determineTheGrade();
+            System.out.println(grade);
+            isUnsolvedCode = grader.isUnsolvedCode();
+            turnCounter++;
+        }
     }
 
 }

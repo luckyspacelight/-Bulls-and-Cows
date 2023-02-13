@@ -2,12 +2,16 @@ package bullscows;
 
 public class Grader {
 
-    private String digitsTry;
-    private String secretNumber;
+    private final String digitsTry;
+    private boolean isUnsolvedCode;
 
-    public Grader(String digitsTry, String secretNumber) {
+    public Grader(String digitsTry) {
         this.digitsTry = digitsTry;
-        this.secretNumber = secretNumber;
+        this.isUnsolvedCode = true;
+    }
+
+    public boolean isUnsolvedCode() {
+        return isUnsolvedCode;
     }
 
     public String determineTheGrade() {
@@ -16,7 +20,7 @@ public class Grader {
         String[] arNT = this.digitsTry.split("");
 
         // Secret Number array
-        String[] arSN = this.secretNumber.split("");
+        String[] arSN = Main.SECRET_NUMBER.split("");
 
         int cowsCounter = 0;
         int bullCounter = 0;
@@ -34,8 +38,22 @@ public class Grader {
 
             }
         }
-        return String.format("Grade: %d bull(s) and %d cow(s). The secret code is %s.",
-                bullCounter, cowsCounter, this.secretNumber);
+
+        this.isUnsolvedCode = (bullCounter != arSN.length);
+
+        String strBullPlural = bullCounter == 1 ? "" : "s";
+        String strCowPlural = cowsCounter == 1 ? "" : "s";
+        String grade = String.format("Grade: %d bull%s and %d cow%s. The secret code is %s.",
+                bullCounter, strBullPlural, cowsCounter, strCowPlural, Main.SECRET_NUMBER);
+
+
+        if (this.isUnsolvedCode == false) {
+            StringBuilder sb = new StringBuilder(grade);
+            sb.append("\nCongratulations! You guessed the secret code.");
+            grade = sb.toString();
+        }
+
+        return grade;
     }
 
 }

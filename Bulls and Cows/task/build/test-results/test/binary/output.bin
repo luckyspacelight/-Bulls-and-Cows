@@ -1,20 +1,610 @@
 [1;31m
 Start test 1[0m
-> 4
-2108
+)Please, enter the secret code's length:
+> 1
+Okay, let's start a game!
+	Turn 1:
+> 0
+2Grade: 0 bulls and 0 cows. The secret code is 3.
+	Turn 2:
+> 1
+2Grade: 0 bulls and 0 cows. The secret code is 3.
+	Turn 3:
+> 2
+2Grade: 0 bulls and 0 cows. The secret code is 3.
+	Turn 4:
+> 3
+0Grade: 1 bull and 0 cows. The secret code is 3.
+/Congratulations! You guessed the secret code.
 [1;31m
 Start test 2[0m
-> 1
-3
+)Please, enter the secret code's length:
+> 4
+Okay, let's start a game!
+	Turn 1:
+> 0000
+5Grade: 0 bulls and 0 cows. The secret code is 2748.
+	Turn 2:
+> 1111
+5Grade: 0 bulls and 0 cows. The secret code is 2748.
+	Turn 3:
+> 2222
+4Grade: 1 bull and 3 cows. The secret code is 2748.
+	Turn 4:
+> 3333
+5Grade: 0 bulls and 0 cows. The secret code is 2748.
+	Turn 5:
+> 4444
+4Grade: 1 bull and 3 cows. The secret code is 2748.
+	Turn 6:
+> 5555
+5Grade: 0 bulls and 0 cows. The secret code is 2748.
+	Turn 7:
+> 6666
+5Grade: 0 bulls and 0 cows. The secret code is 2748.
+	Turn 8:
+> 7777
+4Grade: 1 bull and 3 cows. The secret code is 2748.
+	Turn 9:
+> 8888
+4Grade: 1 bull and 3 cows. The secret code is 2748.
+
+Turn 10:
+> 2478
+5Grade: 2 bulls and 2 cows. The secret code is 2748.
+
+Turn 11:
+> 4278
+4Grade: 1 bull and 3 cows. The secret code is 2748.
+
+Turn 12:
+> 7248
+5Grade: 2 bulls and 2 cows. The secret code is 2748.
+
+Turn 13:
+> 2748
+4Grade: 4 bulls and 0 cows. The secret code is 2748.
+/Congratulations! You guessed the secret code.
 [1;31m
 Start test 3[0m
-> 11
-fError: can't generate a secret number with a length of 11 because there aren't enough unique digits.
+)Please, enter the secret code's length:
+> 6
+Okay, let's start a game!
+	Turn 1:
+	> 000000
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+	Turn 2:
+	> 111111
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+	Turn 3:
+	> 222222
+7Grade: 0 bulls and 0 cows. The secret code is 359107.
+	Turn 4:
+	> 333333
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+	Turn 5:
+	> 444444
+7Grade: 0 bulls and 0 cows. The secret code is 359107.
+	Turn 6:
+	> 555555
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+	Turn 7:
+	> 666666
+7Grade: 0 bulls and 0 cows. The secret code is 359107.
+	Turn 8:
+	> 777777
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+	Turn 9:
+	> 888888
+7Grade: 0 bulls and 0 cows. The secret code is 359107.
+
+Turn 10:
+	> 999999
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 11:
+	> 013579
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 12:
+	> 103579
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 13:
+	> 301579
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 14:
+	> 031579
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 15:
+	> 130579
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 16:
+	> 310579
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 17:
+	> 510379
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 18:
+	> 150379
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 19:
+	> 051379
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 20:
+	> 501379
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 21:
+	> 105379
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 22:
+	> 015379
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 23:
+	> 035179
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 24:
+	> 305179
+7Grade: 2 bulls and 4 cows. The secret code is 359107.
+
+Turn 25:
+	> 503179
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 26:
+	> 053179
+7Grade: 2 bulls and 4 cows. The secret code is 359107.
+
+Turn 27:
+	> 350179
+7Grade: 3 bulls and 3 cows. The secret code is 359107.
+
+Turn 28:
+	> 530179
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 29:
+	> 531079
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 30:
+	> 351079
+7Grade: 2 bulls and 4 cows. The secret code is 359107.
+
+Turn 31:
+	> 153079
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 32:
+	> 513079
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 33:
+	> 315079
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 34:
+	> 135079
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 35:
+	> 735019
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 36:
+	> 375019
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 37:
+	> 573019
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 38:
+	> 753019
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 39:
+	> 357019
+7Grade: 2 bulls and 4 cows. The secret code is 359107.
+
+Turn 40:
+	> 537019
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 41:
+	> 037519
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 42:
+	> 307519
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 43:
+	> 703519
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 44:
+	> 073519
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 45:
+	> 370519
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 46:
+	> 730519
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 47:
+	> 750319
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 48:
+	> 570319
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 49:
+	> 075319
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 50:
+	> 705319
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 51:
+	> 507319
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 52:
+	> 057319
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 53:
+	> 053719
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 54:
+	> 503719
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 55:
+	> 305719
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 56:
+	> 035719
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 57:
+	> 530719
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 58:
+	> 350719
+7Grade: 2 bulls and 4 cows. The secret code is 359107.
+
+Turn 59:
+	> 150739
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 60:
+	> 510739
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 61:
+	> 015739
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 62:
+	> 105739
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 63:
+	> 501739
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 64:
+	> 051739
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 65:
+	> 751039
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 66:
+	> 571039
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 67:
+	> 175039
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 68:
+	> 715039
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 69:
+	> 517039
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 70:
+	> 157039
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 71:
+	> 107539
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 72:
+	> 017539
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 73:
+	> 710539
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 74:
+	> 170539
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 75:
+	> 071539
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 76:
+	> 701539
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 77:
+	> 705139
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 78:
+	> 075139
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 79:
+	> 570139
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 80:
+	> 750139
+7Grade: 2 bulls and 4 cows. The secret code is 359107.
+
+Turn 81:
+	> 057139
+7Grade: 2 bulls and 4 cows. The secret code is 359107.
+
+Turn 82:
+	> 507139
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 83:
+	> 307159
+7Grade: 2 bulls and 4 cows. The secret code is 359107.
+
+Turn 84:
+	> 037159
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 85:
+	> 730159
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 86:
+	> 370159
+7Grade: 2 bulls and 4 cows. The secret code is 359107.
+
+Turn 87:
+	> 073159
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 88:
+	> 703159
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 89:
+	> 103759
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 90:
+	> 013759
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 91:
+	> 310759
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 92:
+	> 130759
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 93:
+	> 031759
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 94:
+	> 301759
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 95:
+	> 371059
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 96:
+	> 731059
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 97:
+	> 137059
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+
+Turn 98:
+	> 317059
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+
+Turn 99:
+	> 713059
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+Turn 100:
+	> 173059
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+Turn 101:
+	> 170359
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+Turn 102:
+	> 710359
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+Turn 103:
+	> 017359
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+Turn 104:
+	> 107359
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+Turn 105:
+	> 701359
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+Turn 106:
+	> 071359
+7Grade: 0 bulls and 6 cows. The secret code is 359107.
+Turn 107:
+	> 571309
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+Turn 108:
+	> 751309
+7Grade: 2 bulls and 4 cows. The secret code is 359107.
+Turn 109:
+	> 157309
+7Grade: 2 bulls and 4 cows. The secret code is 359107.
+Turn 110:
+	> 517309
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+Turn 111:
+	> 715309
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+Turn 112:
+	> 175309
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+Turn 113:
+	> 375109
+7Grade: 3 bulls and 3 cows. The secret code is 359107.
+Turn 114:
+	> 735109
+7Grade: 2 bulls and 4 cows. The secret code is 359107.
+Turn 115:
+	> 537109
+7Grade: 2 bulls and 4 cows. The secret code is 359107.
+Turn 116:
+	> 357109
+7Grade: 4 bulls and 2 cows. The secret code is 359107.
+Turn 117:
+	> 753109
+7Grade: 3 bulls and 3 cows. The secret code is 359107.
+Turn 118:
+	> 573109
+7Grade: 2 bulls and 4 cows. The secret code is 359107.
+Turn 119:
+	> 513709
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+Turn 120:
+	> 153709
+7Grade: 2 bulls and 4 cows. The secret code is 359107.
+Turn 121:
+	> 351709
+7Grade: 3 bulls and 3 cows. The secret code is 359107.
+Turn 122:
+	> 531709
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+Turn 123:
+	> 135709
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+Turn 124:
+	> 315709
+7Grade: 2 bulls and 4 cows. The secret code is 359107.
+Turn 125:
+	> 317509
+7Grade: 2 bulls and 4 cows. The secret code is 359107.
+Turn 126:
+	> 137509
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+Turn 127:
+	> 731509
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+Turn 128:
+	> 371509
+7Grade: 2 bulls and 4 cows. The secret code is 359107.
+Turn 129:
+	> 173509
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+Turn 130:
+	> 713509
+6Grade: 1 bull and 5 cows. The secret code is 359107.
+Turn 131:
+	> 913507
+7Grade: 2 bulls and 4 cows. The secret code is 359107.
+Turn 132:
+	> 193507
+7Grade: 2 bulls and 4 cows. The secret code is 359107.
+Turn 133:
+	> 391507
+7Grade: 3 bulls and 3 cows. The secret code is 359107.
+Turn 134:
+	> 931507
+7Grade: 2 bulls and 4 cows. The secret code is 359107.
+Turn 135:
+	> 139507
+7Grade: 3 bulls and 3 cows. The secret code is 359107.
+Turn 136:
+	> 319507
+7Grade: 4 bulls and 2 cows. The secret code is 359107.
+Turn 137:
+	> 519307
+7Grade: 3 bulls and 3 cows. The secret code is 359107.
+Turn 138:
+	> 159307
+7Grade: 4 bulls and 2 cows. The secret code is 359107.
+Turn 139:
+	> 951307
+7Grade: 3 bulls and 3 cows. The secret code is 359107.
+Turn 140:
+	> 591307
+7Grade: 2 bulls and 4 cows. The secret code is 359107.
+Turn 141:
+	> 195307
+7Grade: 2 bulls and 4 cows. The secret code is 359107.
+Turn 142:
+	> 915307
+7Grade: 2 bulls and 4 cows. The secret code is 359107.
+Turn 143:
+	> 935107
+7Grade: 3 bulls and 3 cows. The secret code is 359107.
+Turn 144:
+	> 395107
+7Grade: 4 bulls and 2 cows. The secret code is 359107.
+Turn 145:
+	> 593107
+7Grade: 3 bulls and 3 cows. The secret code is 359107.
+Turn 146:
+	> 953107
+7Grade: 4 bulls and 2 cows. The secret code is 359107.
+Turn 147:
+	> 359107
+6Grade: 6 bulls and 0 cows. The secret code is 359107.
+/Congratulations! You guessed the secret code.
 [1;31m
 Start test 4[0m
-> 6
-741869
-[1;31m
-Start test 5[0m
-> 3
-719
+)Please, enter the secret code's length:
+> 11
+Okay, let's start a game!
+	Turn 1:

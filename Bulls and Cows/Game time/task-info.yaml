@@ -341,5 +341,21 @@ files:
     }
   learner_created: true
 feedback_link: https://hyperskill.org/projects/53/stages/290/implement#comment
-status: Unchecked
+status: Failed
+feedback:
+  message: |-
+    Wrong answer in test #4
+
+    An error message expected with input &quot;11&quot;
+
+    Please find below the output of your program during this failed test.
+    Note that the &#39;&gt;&#39; character indicates the beginning of the input line.
+
+    ---
+
+    Please, enter the secret code&#39;s length:
+    &gt; 11
+    Okay, let&#39;s start a game!
+    Turn 1:
+  time: "Mon, 13 Feb 2023 02:23:20 UTC"
 record: -1

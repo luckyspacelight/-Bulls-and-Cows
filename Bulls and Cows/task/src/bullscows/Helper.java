@@ -6,11 +6,9 @@ import java.util.Scanner;
 public class Helper {
 
     public static String generateSecretNumber() {
-        Random random = new Random();
-        return String.format("%04d", random.nextInt(10000));
-    }
 
-    public static String generateSecretNumber(int numDigits) {
+        // Ask for the length of the secret code
+        int numDigits = defineSecretCodeLength();
 
         // Secret number counter setup
         int numSNCount = numDigits;
@@ -39,9 +37,15 @@ public class Helper {
         }
     }
 
-    public static String guessTheNumber() {
+    public static String guessTheNumber(int turnCounter) {
         Scanner scanner = new Scanner(System.in);
+        System.out.printf("Turn %d:%n", turnCounter);
         return scanner.nextLine();
+    }
+    public static int defineSecretCodeLength() {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Please, enter the secret code's length:");
+        return scanner.nextInt();
     }
 
 }
