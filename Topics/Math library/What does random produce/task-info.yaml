@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: "int, greater than 0 and less than or equal to 100"
+- text: "int, greater than or equal to 0 and less than 100"
+- text: "double, greater than or equal to 0.0 and less than 1.0"
+- text: "double, greater than 0.0 and less than 100.0"
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2030#comment
+status: Solved
+record: -1
+local_check: false

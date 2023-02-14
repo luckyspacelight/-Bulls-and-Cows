@@ -408,6 +408,180 @@ files:
         }
     }
   learner_created: false
-feedback_link: https://hyperskill.org/projects/53/stages/293/implement#comment
-status: Unchecked
+- name: src/bullscows/Helper.java
+  visible: true
+  text: |
+    package bullscows;
+
+    import java.util.Random;
+    import java.util.Scanner;
+
+    public class Helper {
+
+
+        public static String[] generateSecretNumber(int numDigits, int numTotalSymbols) {
+
+            Random random = new Random();
+
+            // Secret number counter setup
+            int numSNCount = numDigits;
+
+            // Secret number setup
+            StringBuilder strSecretNumber = new StringBuilder();
+
+            while (numSNCount > 0) {
+
+                int randomValue = random.nextInt(numTotalSymbols);
+                char character;
+                if (randomValue < 10) {
+                    character = (char) (randomValue + '0');
+                } else {
+                    character = (char) (randomValue - 10 + 'a');
+                }
+
+                if (!strSecretNumber.toString().contains(String.valueOf(character))) {
+                    strSecretNumber.append(character);
+                    numSNCount--;
+                }
+
+            }
+
+            String message = String.format("The secret is prepared: %s %s.",
+                    printAsterisks(numDigits), printRanges(numTotalSymbols));
+
+            String[] arSecretNumber = new String[2];
+            arSecretNumber[0] = strSecretNumber.toString();
+            arSecretNumber[1] = message;
+            return arSecretNumber;
+        }
+
+        public static String generateSNComplex(int numDigits) {
+
+            // Secret number counter setup
+            int numSNCount = numDigits;
+
+            // Secret number setup
+            StringBuilder strSecretNumber = new StringBuilder();
+
+            while (numSNCount > 0) {
+                String strPRN = String.valueOf(System.nanoTime());
+                for (int i = strPRN.length() - 1; i >= 0 && numSNCount > 0; i--) {
+                    if (numSNCount == numDigits && strPRN.charAt(i) == '0') {
+                        continue;
+                    }
+                    if (!strSecretNumber.toString().contains(String.valueOf(strPRN.charAt(i)))) {
+                        strSecretNumber.append(strPRN.charAt(i));
+                        numSNCount--;
+                    }
+                }
+            }
+            return strSecretNumber.toString();
+
+        }
+
+        public static String guessTheNumber(int turnCounter) {
+            Scanner scanner = new Scanner(System.in);
+            System.out.printf("Turn %d:%n", turnCounter);
+            return scanner.nextLine();
+        }
+        public static int defineSecretCodeLength() {
+            Scanner scanner = new Scanner(System.in);
+            System.out.println("Input the length of the secret code:");
+            return scanner.nextInt();
+        }
+
+        public static int defineNumSymbols() {
+            Scanner scanner = new Scanner(System.in);
+            System.out.println("Input the number of possible symbols in the code:");
+            return scanner.nextInt();
+        }
+
+        public static String printAsterisks(int numDigits){
+            String hiddenCode = "";
+            for (int i = 0; i < numDigits; i++) {
+                hiddenCode += "*";
+            }
+            return hiddenCode;
+        }
+
+        public static String printRanges(int numTotalSymbols) {
+            String ranges = "";
+
+            if (numTotalSymbols <= 10) {
+                ranges = String.format("(0-%s)", (char) (numTotalSymbols - 1 + 48));
+            } else {
+                ranges = String.format("(0-9) (a-%s)", (char) (numTotalSymbols - 1 - 10 + 97));
+            }
+
+            return ranges;
+        }
+
+
+
+    }
+  learner_created: true
+- name: src/bullscows/Grader.java
+  visible: true
+  text: |
+    package bullscows;
+
+    public class Grader {
+
+        private final String digitsTry;
+        private boolean isUnsolvedCode;
+
+        public Grader(String digitsTry) {
+            this.digitsTry = digitsTry;
+            this.isUnsolvedCode = true;
+        }
+
+        public boolean isUnsolvedCode() {
+            return isUnsolvedCode;
+        }
+
+        public String determineTheGrade() {
+
+            //Tries array
+            String[] arNT = this.digitsTry.split("");
+
+            // Secret Number array
+            String[] arSN = Main.SECRET_NUMBER.split("");
+
+            int cowsCounter = 0;
+            int bullCounter = 0;
+
+            for (int i = 0; i < arNT.length; i++) {
+                for (int j = 0; j < arSN.length; j++) {
+
+                    if (arNT[i].equals(arSN[j])) {
+                        if (i == j) {
+                            bullCounter++;
+                        } else {
+                            cowsCounter++;
+                        }
+                    }
+                }
+            }
+
+            this.isUnsolvedCode = (bullCounter != arSN.length);
+
+            String strBullPlural = bullCounter == 1 ? "" : "s";
+            String strCowPlural = cowsCounter == 1 ? "" : "s";
+            String grade = String.format("Grade: %d bull%s and %d cow%s",
+                    bullCounter, strBullPlural, cowsCounter, strCowPlural);
+
+            if (this.isUnsolvedCode == false) {
+                StringBuilder sb = new StringBuilder(grade);
+                sb.append("\nCongratulations! You guessed the secret code.");
+                grade = sb.toString();
+            }
+            return grade;
+        }
+    }
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/5435#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 14 Feb 2023 01:15:46 UTC"
 record: -1

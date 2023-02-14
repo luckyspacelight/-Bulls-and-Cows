@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -18,6 +19,20 @@
             <option value="$PROJECT_DIR$/Bulls and Cows/task/build/reports/tests" />
             <option value="$PROJECT_DIR$/Bulls and Cows/task/build/test-results" />
             <option value="$PROJECT_DIR$/Bulls and Cows/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Area of a circle" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Distance" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Existing floating-point types" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Find X" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Liquid pressure" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Math library/Existing methods" />
+            <option value="$PROJECT_DIR$/Topics/Math library/Heron's formula" />
+            <option value="$PROJECT_DIR$/Topics/Math library/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Math library/What does random produce" />
+            <option value="$PROJECT_DIR$/Topics/Random/Choose a correct invocation" />
+            <option value="$PROJECT_DIR$/Topics/Random/Find the seed" />
+            <option value="$PROJECT_DIR$/Topics/Random/Impossible to generate" />
+            <option value="$PROJECT_DIR$/Topics/Random/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>

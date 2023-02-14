@@ -13,16 +13,36 @@ public class Main {
         // Ask for the length of the secret code
         int numDigits = Helper.defineSecretCodeLength();
 
-        if (numDigits > 10) {
-            String strMessage = "Error: can't generate a secret number with a length of 11 " +
-                    "because there aren't enough unique digits.";
+
+        // Input the number of possible symbols in the code
+        int numSymbols = Helper.defineNumSymbols();
+
+        String strMessage = "";
+        if (numDigits > 36 || numSymbols > 36) {
+            strMessage = "Error: maximum number of possible symbols in the code is 36 (0-9, a-z)";
+            System.out.println(strMessage);
+        } else if (numDigits <= 0) {
+            strMessage = "Error: The secret code must contain at least one valid symbol.";
+            System.out.println(strMessage);
+        } else if (numDigits > numSymbols) {
+            strMessage = String.format("Error: it's not possible to generate " +
+                    "a code with a length of %d with %d unique symbols.", numDigits, numSymbols);
             System.out.println(strMessage);
         } else {
-            SECRET_NUMBER = Helper.generateSecretNumber(numDigits);
+            String[] arSN = Helper.generateSecretNumber(numDigits, numSymbols);
+            SECRET_NUMBER = arSN[0];
+            System.out.println(SECRET_NUMBER);
+            System.out.println(arSN[1]); // Print the confirmation: the secret is prepared.
+
             System.out.println("Okay, let's start a game!");
             int turnCounter = 1;
             while (isUnsolvedCode) {
                 String tryNum = Helper.guessTheNumber(turnCounter);
+                if (tryNum.length() != numDigits) {
+                    strMessage =  "\"" + tryNum + "\" isn't a valid number.";
+                    System.out.println(strMessage);
+                    return;
+                }
                 Grader grader = new Grader(tryNum);
                 String grade = grader.determineTheGrade();
                 System.out.println(grade);

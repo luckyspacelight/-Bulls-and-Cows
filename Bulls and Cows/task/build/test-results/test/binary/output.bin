@@ -1,7 +1,11 @@
 [1;31m
 Start test 1[0m
-)Please, enter the secret code's length:
+&Input the length of the secret code:
 > 1
+3Input the number of possible symbols in the code:
+> 10
+2
+"The secret is prepared: * (0-9).
 Okay, let's start a game!
 	Turn 1:
 > 0
@@ -11,27 +15,16 @@
 Grade: 0 bulls and 0 cows
 	Turn 3:
 > 2
-Grade: 0 bulls and 0 cows
-	Turn 4:
-> 3
-Grade: 0 bulls and 0 cows
-	Turn 5:
-> 4
-Grade: 0 bulls and 0 cows
-	Turn 6:
-> 5
-Grade: 0 bulls and 0 cows
-	Turn 7:
-> 6
-Grade: 0 bulls and 0 cows
-	Turn 8:
-> 7
 Grade: 1 bull and 0 cows
 /Congratulations! You guessed the secret code.
 [1;31m
 Start test 2[0m
-)Please, enter the secret code's length:
+&Input the length of the secret code:
 > 4
+3Input the number of possible symbols in the code:
+> 10
+8327
+%The secret is prepared: **** (0-9).
 Okay, let's start a game!
 	Turn 1:
 > 0000
@@ -44,6 +37,1471 @@
 Grade: 1 bull and 3 cows
 	Turn 4:
 > 3333
+Grade: 1 bull and 3 cows
+	Turn 5:
+> 4444
+Grade: 0 bulls and 0 cows
+	Turn 6:
+> 5555
+Grade: 0 bulls and 0 cows
+	Turn 7:
+> 6666
+Grade: 0 bulls and 0 cows
+	Turn 8:
+> 7777
+Grade: 1 bull and 3 cows
+	Turn 9:
+> 8888
+Grade: 1 bull and 3 cows
+
+Turn 10:
+> 2378
+Grade: 1 bull and 3 cows
+
+Turn 11:
+> 3278
+Grade: 0 bulls and 4 cows
+
+Turn 12:
+> 7238
+Grade: 0 bulls and 4 cows
+
+Turn 13:
+> 2738
+Grade: 0 bulls and 4 cows
+
+Turn 14:
+> 3728
+Grade: 1 bull and 3 cows
+
+Turn 15:
+> 7328
+Grade: 2 bulls and 2 cows
+
+Turn 16:
+> 8327
+Grade: 4 bulls and 0 cows
+/Congratulations! You guessed the secret code.
+[1;31m
+Start test 3[0m
+&Input the length of the secret code:
+> 6
+3Input the number of possible symbols in the code:
+> 10
+067534
+'The secret is prepared: ****** (0-9).
+Okay, let's start a game!
+	Turn 1:
+	> 000000
+Grade: 1 bull and 5 cows
+	Turn 2:
+	> 111111
+Grade: 0 bulls and 0 cows
+	Turn 3:
+	> 222222
+Grade: 0 bulls and 0 cows
+	Turn 4:
+	> 333333
+Grade: 1 bull and 5 cows
+	Turn 5:
+	> 444444
+Grade: 1 bull and 5 cows
+	Turn 6:
+	> 555555
+Grade: 1 bull and 5 cows
+	Turn 7:
+	> 666666
+Grade: 1 bull and 5 cows
+	Turn 8:
+	> 777777
+Grade: 1 bull and 5 cows
+	Turn 9:
+	> 034567
+Grade: 2 bulls and 4 cows
+
+Turn 10:
+	> 304567
+Grade: 1 bull and 5 cows
+
+Turn 11:
+	> 403567
+Grade: 1 bull and 5 cows
+
+Turn 12:
+	> 043567
+Grade: 2 bulls and 4 cows
+
+Turn 13:
+	> 340567
+Grade: 1 bull and 5 cows
+
+Turn 14:
+	> 430567
+Grade: 1 bull and 5 cows
+
+Turn 15:
+	> 530467
+Grade: 0 bulls and 6 cows
+
+Turn 16:
+	> 350467
+Grade: 0 bulls and 6 cows
+
+Turn 17:
+	> 053467
+Grade: 1 bull and 5 cows
+
+Turn 18:
+	> 503467
+Grade: 0 bulls and 6 cows
+
+Turn 19:
+	> 305467
+Grade: 0 bulls and 6 cows
+
+Turn 20:
+	> 035467
+Grade: 1 bull and 5 cows
+
+Turn 21:
+	> 045367
+Grade: 1 bull and 5 cows
+
+Turn 22:
+	> 405367
+Grade: 0 bulls and 6 cows
+
+Turn 23:
+	> 504367
+Grade: 0 bulls and 6 cows
+
+Turn 24:
+	> 054367
+Grade: 1 bull and 5 cows
+
+Turn 25:
+	> 450367
+Grade: 0 bulls and 6 cows
+
+Turn 26:
+	> 540367
+Grade: 0 bulls and 6 cows
+
+Turn 27:
+	> 543067
+Grade: 0 bulls and 6 cows
+
+Turn 28:
+	> 453067
+Grade: 0 bulls and 6 cows
+
+Turn 29:
+	> 354067
+Grade: 0 bulls and 6 cows
+
+Turn 30:
+	> 534067
+Grade: 0 bulls and 6 cows
+
+Turn 31:
+	> 435067
+Grade: 0 bulls and 6 cows
+
+Turn 32:
+	> 345067
+Grade: 0 bulls and 6 cows
+
+Turn 33:
+	> 645037
+Grade: 1 bull and 5 cows
+
+Turn 34:
+	> 465037
+Grade: 2 bulls and 4 cows
+
+Turn 35:
+	> 564037
+Grade: 2 bulls and 4 cows
+
+Turn 36:
+	> 654037
+Grade: 1 bull and 5 cows
+
+Turn 37:
+	> 456037
+Grade: 1 bull and 5 cows
+
+Turn 38:
+	> 546037
+Grade: 1 bull and 5 cows
+
+Turn 39:
+	> 046537
+Grade: 3 bulls and 3 cows
+
+Turn 40:
+	> 406537
+Grade: 2 bulls and 4 cows
+
+Turn 41:
+	> 604537
+Grade: 2 bulls and 4 cows
+
+Turn 42:
+	> 064537
+Grade: 4 bulls and 2 cows
+
+Turn 43:
+	> 460537
+Grade: 3 bulls and 3 cows
+
+Turn 44:
+	> 640537
+Grade: 2 bulls and 4 cows
+
+Turn 45:
+	> 650437
+Grade: 1 bull and 5 cows
+
+Turn 46:
+	> 560437
+Grade: 2 bulls and 4 cows
+
+Turn 47:
+	> 065437
+Grade: 3 bulls and 3 cows
+
+Turn 48:
+	> 605437
+Grade: 1 bull and 5 cows
+
+Turn 49:
+	> 506437
+Grade: 1 bull and 5 cows
+
+Turn 50:
+	> 056437
+Grade: 2 bulls and 4 cows
+
+Turn 51:
+	> 054637
+Grade: 2 bulls and 4 cows
+
+Turn 52:
+	> 504637
+Grade: 1 bull and 5 cows
+
+Turn 53:
+	> 405637
+Grade: 1 bull and 5 cows
+
+Turn 54:
+	> 045637
+Grade: 2 bulls and 4 cows
+
+Turn 55:
+	> 540637
+Grade: 1 bull and 5 cows
+
+Turn 56:
+	> 450637
+Grade: 1 bull and 5 cows
+
+Turn 57:
+	> 350647
+Grade: 0 bulls and 6 cows
+
+Turn 58:
+	> 530647
+Grade: 0 bulls and 6 cows
+
+Turn 59:
+	> 035647
+Grade: 1 bull and 5 cows
+
+Turn 60:
+	> 305647
+Grade: 0 bulls and 6 cows
+
+Turn 61:
+	> 503647
+Grade: 0 bulls and 6 cows
+
+Turn 62:
+	> 053647
+Grade: 1 bull and 5 cows
+
+Turn 63:
+	> 653047
+Grade: 0 bulls and 6 cows
+
+Turn 64:
+	> 563047
+Grade: 1 bull and 5 cows
+
+Turn 65:
+	> 365047
+Grade: 1 bull and 5 cows
+
+Turn 66:
+	> 635047
+Grade: 0 bulls and 6 cows
+
+Turn 67:
+	> 536047
+Grade: 0 bulls and 6 cows
+
+Turn 68:
+	> 356047
+Grade: 0 bulls and 6 cows
+
+Turn 69:
+	> 306547
+Grade: 1 bull and 5 cows
+
+Turn 70:
+	> 036547
+Grade: 2 bulls and 4 cows
+
+Turn 71:
+	> 630547
+Grade: 1 bull and 5 cows
+
+Turn 72:
+	> 360547
+Grade: 2 bulls and 4 cows
+
+Turn 73:
+	> 063547
+Grade: 3 bulls and 3 cows
+
+Turn 74:
+	> 603547
+Grade: 1 bull and 5 cows
+
+Turn 75:
+	> 605347
+Grade: 0 bulls and 6 cows
+
+Turn 76:
+	> 065347
+Grade: 2 bulls and 4 cows
+
+Turn 77:
+	> 560347
+Grade: 1 bull and 5 cows
+
+Turn 78:
+	> 650347
+Grade: 0 bulls and 6 cows
+
+Turn 79:
+	> 056347
+Grade: 1 bull and 5 cows
+
+Turn 80:
+	> 506347
+Grade: 0 bulls and 6 cows
+
+Turn 81:
+	> 406357
+Grade: 0 bulls and 6 cows
+
+Turn 82:
+	> 046357
+Grade: 1 bull and 5 cows
+
+Turn 83:
+	> 640357
+Grade: 0 bulls and 6 cows
+
+Turn 84:
+	> 460357
+Grade: 1 bull and 5 cows
+
+Turn 85:
+	> 064357
+Grade: 2 bulls and 4 cows
+
+Turn 86:
+	> 604357
+Grade: 0 bulls and 6 cows
+
+Turn 87:
+	> 304657
+Grade: 0 bulls and 6 cows
+
+Turn 88:
+	> 034657
+Grade: 1 bull and 5 cows
+
+Turn 89:
+	> 430657
+Grade: 0 bulls and 6 cows
+
+Turn 90:
+	> 340657
+Grade: 0 bulls and 6 cows
+
+Turn 91:
+	> 043657
+Grade: 1 bull and 5 cows
+
+Turn 92:
+	> 403657
+Grade: 0 bulls and 6 cows
+
+Turn 93:
+	> 463057
+Grade: 1 bull and 5 cows
+
+Turn 94:
+	> 643057
+Grade: 0 bulls and 6 cows
+
+Turn 95:
+	> 346057
+Grade: 0 bulls and 6 cows
+
+Turn 96:
+	> 436057
+Grade: 0 bulls and 6 cows
+
+Turn 97:
+	> 634057
+Grade: 0 bulls and 6 cows
+
+Turn 98:
+	> 364057
+Grade: 1 bull and 5 cows
+
+Turn 99:
+	> 360457
+Grade: 1 bull and 5 cows
+Turn 100:
+	> 630457
+Grade: 0 bulls and 6 cows
+Turn 101:
+	> 036457
+Grade: 1 bull and 5 cows
+Turn 102:
+	> 306457
+Grade: 0 bulls and 6 cows
+Turn 103:
+	> 603457
+Grade: 0 bulls and 6 cows
+Turn 104:
+	> 063457
+Grade: 2 bulls and 4 cows
+Turn 105:
+	> 563407
+Grade: 1 bull and 5 cows
+Turn 106:
+	> 653407
+Grade: 0 bulls and 6 cows
+Turn 107:
+	> 356407
+Grade: 0 bulls and 6 cows
+Turn 108:
+	> 536407
+Grade: 0 bulls and 6 cows
+Turn 109:
+	> 635407
+Grade: 0 bulls and 6 cows
+Turn 110:
+	> 365407
+Grade: 1 bull and 5 cows
+Turn 111:
+	> 465307
+Grade: 1 bull and 5 cows
+Turn 112:
+	> 645307
+Grade: 0 bulls and 6 cows
+Turn 113:
+	> 546307
+Grade: 0 bulls and 6 cows
+Turn 114:
+	> 456307
+Grade: 0 bulls and 6 cows
+Turn 115:
+	> 654307
+Grade: 0 bulls and 6 cows
+Turn 116:
+	> 564307
+Grade: 1 bull and 5 cows
+Turn 117:
+	> 534607
+Grade: 0 bulls and 6 cows
+Turn 118:
+	> 354607
+Grade: 0 bulls and 6 cows
+Turn 119:
+	> 453607
+Grade: 0 bulls and 6 cows
+Turn 120:
+	> 543607
+Grade: 0 bulls and 6 cows
+Turn 121:
+	> 345607
+Grade: 0 bulls and 6 cows
+Turn 122:
+	> 435607
+Grade: 0 bulls and 6 cows
+Turn 123:
+	> 436507
+Grade: 1 bull and 5 cows
+Turn 124:
+	> 346507
+Grade: 1 bull and 5 cows
+Turn 125:
+	> 643507
+Grade: 1 bull and 5 cows
+Turn 126:
+	> 463507
+Grade: 2 bulls and 4 cows
+Turn 127:
+	> 364507
+Grade: 2 bulls and 4 cows
+Turn 128:
+	> 634507
+Grade: 1 bull and 5 cows
+Turn 129:
+	> 734506
+Grade: 1 bull and 5 cows
+Turn 130:
+	> 374506
+Grade: 1 bull and 5 cows
+Turn 131:
+	> 473506
+Grade: 1 bull and 5 cows
+Turn 132:
+	> 743506
+Grade: 1 bull and 5 cows
+Turn 133:
+	> 347506
+Grade: 2 bulls and 4 cows
+Turn 134:
+	> 437506
+Grade: 2 bulls and 4 cows
+Turn 135:
+	> 537406
+Grade: 1 bull and 5 cows
+Turn 136:
+	> 357406
+Grade: 1 bull and 5 cows
+Turn 137:
+	> 753406
+Grade: 0 bulls and 6 cows
+Turn 138:
+	> 573406
+Grade: 0 bulls and 6 cows
+Turn 139:
+	> 375406
+Grade: 0 bulls and 6 cows
+Turn 140:
+	> 735406
+Grade: 0 bulls and 6 cows
+Turn 141:
+	> 745306
+Grade: 0 bulls and 6 cows
+Turn 142:
+	> 475306
+Grade: 0 bulls and 6 cows
+Turn 143:
+	> 574306
+Grade: 0 bulls and 6 cows
+Turn 144:
+	> 754306
+Grade: 0 bulls and 6 cows
+Turn 145:
+	> 457306
+Grade: 1 bull and 5 cows
+Turn 146:
+	> 547306
+Grade: 1 bull and 5 cows
+Turn 147:
+	> 543706
+Grade: 0 bulls and 6 cows
+Turn 148:
+	> 453706
+Grade: 0 bulls and 6 cows
+Turn 149:
+	> 354706
+Grade: 0 bulls and 6 cows
+Turn 150:
+	> 534706
+Grade: 0 bulls and 6 cows
+Turn 151:
+	> 435706
+Grade: 0 bulls and 6 cows
+Turn 152:
+	> 345706
+Grade: 0 bulls and 6 cows
+Turn 153:
+	> 045736
+Grade: 2 bulls and 4 cows
+Turn 154:
+	> 405736
+Grade: 1 bull and 5 cows
+Turn 155:
+	> 504736
+Grade: 1 bull and 5 cows
+Turn 156:
+	> 054736
+Grade: 2 bulls and 4 cows
+Turn 157:
+	> 450736
+Grade: 1 bull and 5 cows
+Turn 158:
+	> 540736
+Grade: 1 bull and 5 cows
+Turn 159:
+	> 740536
+Grade: 2 bulls and 4 cows
+Turn 160:
+	> 470536
+Grade: 2 bulls and 4 cows
+Turn 161:
+	> 074536
+Grade: 3 bulls and 3 cows
+Turn 162:
+	> 704536
+Grade: 2 bulls and 4 cows
+Turn 163:
+	> 407536
+Grade: 3 bulls and 3 cows
+Turn 164:
+	> 047536
+Grade: 4 bulls and 2 cows
+Turn 165:
+	> 057436
+Grade: 3 bulls and 3 cows
+Turn 166:
+	> 507436
+Grade: 2 bulls and 4 cows
+Turn 167:
+	> 705436
+Grade: 1 bull and 5 cows
+Turn 168:
+	> 075436
+Grade: 2 bulls and 4 cows
+Turn 169:
+	> 570436
+Grade: 1 bull and 5 cows
+Turn 170:
+	> 750436
+Grade: 1 bull and 5 cows
+Turn 171:
+	> 754036
+Grade: 1 bull and 5 cows
+Turn 172:
+	> 574036
+Grade: 1 bull and 5 cows
+Turn 173:
+	> 475036
+Grade: 1 bull and 5 cows
+Turn 174:
+	> 745036
+Grade: 1 bull and 5 cows
+Turn 175:
+	> 547036
+Grade: 2 bulls and 4 cows
+Turn 176:
+	> 457036
+Grade: 2 bulls and 4 cows
+Turn 177:
+	> 357046
+Grade: 1 bull and 5 cows
+Turn 178:
+	> 537046
+Grade: 1 bull and 5 cows
+Turn 179:
+	> 735046
+Grade: 0 bulls and 6 cows
+Turn 180:
+	> 375046
+Grade: 0 bulls and 6 cows
+Turn 181:
+	> 573046
+Grade: 0 bulls and 6 cows
+Turn 182:
+	> 753046
+Grade: 0 bulls and 6 cows
+Turn 183:
+	> 053746
+Grade: 1 bull and 5 cows
+Turn 184:
+	> 503746
+Grade: 0 bulls and 6 cows
+Turn 185:
+	> 305746
+Grade: 0 bulls and 6 cows
+Turn 186:
+	> 035746
+Grade: 1 bull and 5 cows
+Turn 187:
+	> 530746
+Grade: 0 bulls and 6 cows
+Turn 188:
+	> 350746
+Grade: 0 bulls and 6 cows
+Turn 189:
+	> 370546
+Grade: 1 bull and 5 cows
+Turn 190:
+	> 730546
+Grade: 1 bull and 5 cows
+Turn 191:
+	> 037546
+Grade: 3 bulls and 3 cows
+Turn 192:
+	> 307546
+Grade: 2 bulls and 4 cows
+Turn 193:
+	> 703546
+Grade: 1 bull and 5 cows
+Turn 194:
+	> 073546
+Grade: 2 bulls and 4 cows
+Turn 195:
+	> 075346
+Grade: 1 bull and 5 cows
+Turn 196:
+	> 705346
+Grade: 0 bulls and 6 cows
+Turn 197:
+	> 507346
+Grade: 1 bull and 5 cows
+Turn 198:
+	> 057346
+Grade: 2 bulls and 4 cows
+Turn 199:
+	> 750346
+Grade: 0 bulls and 6 cows
+Turn 200:
+	> 570346
+Grade: 0 bulls and 6 cows
+Turn 201:
+	> 470356
+Grade: 0 bulls and 6 cows
+Turn 202:
+	> 740356
+Grade: 0 bulls and 6 cows
+Turn 203:
+	> 047356
+Grade: 2 bulls and 4 cows
+Turn 204:
+	> 407356
+Grade: 1 bull and 5 cows
+Turn 205:
+	> 704356
+Grade: 0 bulls and 6 cows
+Turn 206:
+	> 074356
+Grade: 1 bull and 5 cows
+Turn 207:
+	> 374056
+Grade: 0 bulls and 6 cows
+Turn 208:
+	> 734056
+Grade: 0 bulls and 6 cows
+Turn 209:
+	> 437056
+Grade: 1 bull and 5 cows
+Turn 210:
+	> 347056
+Grade: 1 bull and 5 cows
+Turn 211:
+	> 743056
+Grade: 0 bulls and 6 cows
+Turn 212:
+	> 473056
+Grade: 0 bulls and 6 cows
+Turn 213:
+	> 403756
+Grade: 0 bulls and 6 cows
+Turn 214:
+	> 043756
+Grade: 1 bull and 5 cows
+Turn 215:
+	> 340756
+Grade: 0 bulls and 6 cows
+Turn 216:
+	> 430756
+Grade: 0 bulls and 6 cows
+Turn 217:
+	> 034756
+Grade: 1 bull and 5 cows
+Turn 218:
+	> 304756
+Grade: 0 bulls and 6 cows
+Turn 219:
+	> 307456
+Grade: 1 bull and 5 cows
+Turn 220:
+	> 037456
+Grade: 2 bulls and 4 cows
+Turn 221:
+	> 730456
+Grade: 0 bulls and 6 cows
+Turn 222:
+	> 370456
+Grade: 0 bulls and 6 cows
+Turn 223:
+	> 073456
+Grade: 1 bull and 5 cows
+Turn 224:
+	> 703456
+Grade: 0 bulls and 6 cows
+Turn 225:
+	> 503476
+Grade: 0 bulls and 6 cows
+Turn 226:
+	> 053476
+Grade: 1 bull and 5 cows
+Turn 227:
+	> 350476
+Grade: 0 bulls and 6 cows
+Turn 228:
+	> 530476
+Grade: 0 bulls and 6 cows
+Turn 229:
+	> 035476
+Grade: 1 bull and 5 cows
+Turn 230:
+	> 305476
+Grade: 0 bulls and 6 cows
+Turn 231:
+	> 405376
+Grade: 0 bulls and 6 cows
+Turn 232:
+	> 045376
+Grade: 1 bull and 5 cows
+Turn 233:
+	> 540376
+Grade: 0 bulls and 6 cows
+Turn 234:
+	> 450376
+Grade: 0 bulls and 6 cows
+Turn 235:
+	> 054376
+Grade: 1 bull and 5 cows
+Turn 236:
+	> 504376
+Grade: 0 bulls and 6 cows
+Turn 237:
+	> 534076
+Grade: 0 bulls and 6 cows
+Turn 238:
+	> 354076
+Grade: 0 bulls and 6 cows
+Turn 239:
+	> 453076
+Grade: 0 bulls and 6 cows
+Turn 240:
+	> 543076
+Grade: 0 bulls and 6 cows
+Turn 241:
+	> 345076
+Grade: 0 bulls and 6 cows
+Turn 242:
+	> 435076
+Grade: 0 bulls and 6 cows
+Turn 243:
+	> 430576
+Grade: 1 bull and 5 cows
+Turn 244:
+	> 340576
+Grade: 1 bull and 5 cows
+Turn 245:
+	> 043576
+Grade: 2 bulls and 4 cows
+Turn 246:
+	> 403576
+Grade: 1 bull and 5 cows
+Turn 247:
+	> 304576
+Grade: 1 bull and 5 cows
+Turn 248:
+	> 034576
+Grade: 2 bulls and 4 cows
+Turn 249:
+	> 064573
+Grade: 3 bulls and 3 cows
+Turn 250:
+	> 604573
+Grade: 1 bull and 5 cows
+Turn 251:
+	> 406573
+Grade: 1 bull and 5 cows
+Turn 252:
+	> 046573
+Grade: 2 bulls and 4 cows
+Turn 253:
+	> 640573
+Grade: 1 bull and 5 cows
+Turn 254:
+	> 460573
+Grade: 2 bulls and 4 cows
+Turn 255:
+	> 560473
+Grade: 1 bull and 5 cows
+Turn 256:
+	> 650473
+Grade: 0 bulls and 6 cows
+Turn 257:
+	> 056473
+Grade: 1 bull and 5 cows
+Turn 258:
+	> 506473
+Grade: 0 bulls and 6 cows
+Turn 259:
+	> 605473
+Grade: 0 bulls and 6 cows
+Turn 260:
+	> 065473
+Grade: 2 bulls and 4 cows
+Turn 261:
+	> 045673
+Grade: 1 bull and 5 cows
+Turn 262:
+	> 405673
+Grade: 0 bulls and 6 cows
+Turn 263:
+	> 504673
+Grade: 0 bulls and 6 cows
+Turn 264:
+	> 054673
+Grade: 1 bull and 5 cows
+Turn 265:
+	> 450673
+Grade: 0 bulls and 6 cows
+Turn 266:
+	> 540673
+Grade: 0 bulls and 6 cows
+Turn 267:
+	> 546073
+Grade: 0 bulls and 6 cows
+Turn 268:
+	> 456073
+Grade: 0 bulls and 6 cows
+Turn 269:
+	> 654073
+Grade: 0 bulls and 6 cows
+Turn 270:
+	> 564073
+Grade: 1 bull and 5 cows
+Turn 271:
+	> 465073
+Grade: 1 bull and 5 cows
+Turn 272:
+	> 645073
+Grade: 0 bulls and 6 cows
+Turn 273:
+	> 745063
+Grade: 0 bulls and 6 cows
+Turn 274:
+	> 475063
+Grade: 0 bulls and 6 cows
+Turn 275:
+	> 574063
+Grade: 0 bulls and 6 cows
+Turn 276:
+	> 754063
+Grade: 0 bulls and 6 cows
+Turn 277:
+	> 457063
+Grade: 1 bull and 5 cows
+Turn 278:
+	> 547063
+Grade: 1 bull and 5 cows
+Turn 279:
+	> 047563
+Grade: 3 bulls and 3 cows
+Turn 280:
+	> 407563
+Grade: 2 bulls and 4 cows
+Turn 281:
+	> 704563
+Grade: 1 bull and 5 cows
+Turn 282:
+	> 074563
+Grade: 2 bulls and 4 cows
+Turn 283:
+	> 470563
+Grade: 1 bull and 5 cows
+Turn 284:
+	> 740563
+Grade: 1 bull and 5 cows
+Turn 285:
+	> 750463
+Grade: 0 bulls and 6 cows
+Turn 286:
+	> 570463
+Grade: 0 bulls and 6 cows
+Turn 287:
+	> 075463
+Grade: 1 bull and 5 cows
+Turn 288:
+	> 705463
+Grade: 0 bulls and 6 cows
+Turn 289:
+	> 507463
+Grade: 1 bull and 5 cows
+Turn 290:
+	> 057463
+Grade: 2 bulls and 4 cows
+Turn 291:
+	> 054763
+Grade: 1 bull and 5 cows
+Turn 292:
+	> 504763
+Grade: 0 bulls and 6 cows
+Turn 293:
+	> 405763
+Grade: 0 bulls and 6 cows
+Turn 294:
+	> 045763
+Grade: 1 bull and 5 cows
+Turn 295:
+	> 540763
+Grade: 0 bulls and 6 cows
+Turn 296:
+	> 450763
+Grade: 0 bulls and 6 cows
+Turn 297:
+	> 650743
+Grade: 0 bulls and 6 cows
+Turn 298:
+	> 560743
+Grade: 1 bull and 5 cows
+Turn 299:
+	> 065743
+Grade: 2 bulls and 4 cows
+Turn 300:
+	> 605743
+Grade: 0 bulls and 6 cows
+Turn 301:
+	> 506743
+Grade: 0 bulls and 6 cows
+Turn 302:
+	> 056743
+Grade: 1 bull and 5 cows
+Turn 303:
+	> 756043
+Grade: 0 bulls and 6 cows
+Turn 304:
+	> 576043
+Grade: 0 bulls and 6 cows
+Turn 305:
+	> 675043
+Grade: 0 bulls and 6 cows
+Turn 306:
+	> 765043
+Grade: 1 bull and 5 cows
+Turn 307:
+	> 567043
+Grade: 2 bulls and 4 cows
+Turn 308:
+	> 657043
+Grade: 1 bull and 5 cows
+Turn 309:
+	> 607543
+Grade: 2 bulls and 4 cows
+Turn 310:
+	> 067543
+Grade: 4 bulls and 2 cows
+Turn 311:
+	> 760543
+Grade: 2 bulls and 4 cows
+Turn 312:
+	> 670543
+Grade: 1 bull and 5 cows
+Turn 313:
+	> 076543
+Grade: 2 bulls and 4 cows
+Turn 314:
+	> 706543
+Grade: 1 bull and 5 cows
+Turn 315:
+	> 705643
+Grade: 0 bulls and 6 cows
+Turn 316:
+	> 075643
+Grade: 1 bull and 5 cows
+Turn 317:
+	> 570643
+Grade: 0 bulls and 6 cows
+Turn 318:
+	> 750643
+Grade: 0 bulls and 6 cows
+Turn 319:
+	> 057643
+Grade: 2 bulls and 4 cows
+Turn 320:
+	> 507643
+Grade: 1 bull and 5 cows
+Turn 321:
+	> 407653
+Grade: 1 bull and 5 cows
+Turn 322:
+	> 047653
+Grade: 2 bulls and 4 cows
+Turn 323:
+	> 740653
+Grade: 0 bulls and 6 cows
+Turn 324:
+	> 470653
+Grade: 0 bulls and 6 cows
+Turn 325:
+	> 074653
+Grade: 1 bull and 5 cows
+Turn 326:
+	> 704653
+Grade: 0 bulls and 6 cows
+Turn 327:
+	> 604753
+Grade: 0 bulls and 6 cows
+Turn 328:
+	> 064753
+Grade: 2 bulls and 4 cows
+Turn 329:
+	> 460753
+Grade: 1 bull and 5 cows
+Turn 330:
+	> 640753
+Grade: 0 bulls and 6 cows
+Turn 331:
+	> 046753
+Grade: 1 bull and 5 cows
+Turn 332:
+	> 406753
+Grade: 0 bulls and 6 cows
+Turn 333:
+	> 476053
+Grade: 0 bulls and 6 cows
+Turn 334:
+	> 746053
+Grade: 0 bulls and 6 cows
+Turn 335:
+	> 647053
+Grade: 1 bull and 5 cows
+Turn 336:
+	> 467053
+Grade: 2 bulls and 4 cows
+Turn 337:
+	> 764053
+Grade: 1 bull and 5 cows
+Turn 338:
+	> 674053
+Grade: 0 bulls and 6 cows
+Turn 339:
+	> 670453
+Grade: 0 bulls and 6 cows
+Turn 340:
+	> 760453
+Grade: 1 bull and 5 cows
+Turn 341:
+	> 067453
+Grade: 3 bulls and 3 cows
+Turn 342:
+	> 607453
+Grade: 1 bull and 5 cows
+Turn 343:
+	> 706453
+Grade: 0 bulls and 6 cows
+Turn 344:
+	> 076453
+Grade: 1 bull and 5 cows
+Turn 345:
+	> 576403
+Grade: 0 bulls and 6 cows
+Turn 346:
+	> 756403
+Grade: 0 bulls and 6 cows
+Turn 347:
+	> 657403
+Grade: 1 bull and 5 cows
+Turn 348:
+	> 567403
+Grade: 2 bulls and 4 cows
+Turn 349:
+	> 765403
+Grade: 1 bull and 5 cows
+Turn 350:
+	> 675403
+Grade: 0 bulls and 6 cows
+Turn 351:
+	> 475603
+Grade: 0 bulls and 6 cows
+Turn 352:
+	> 745603
+Grade: 0 bulls and 6 cows
+Turn 353:
+	> 547603
+Grade: 1 bull and 5 cows
+Turn 354:
+	> 457603
+Grade: 1 bull and 5 cows
+Turn 355:
+	> 754603
+Grade: 0 bulls and 6 cows
+Turn 356:
+	> 574603
+Grade: 0 bulls and 6 cows
+Turn 357:
+	> 564703
+Grade: 1 bull and 5 cows
+Turn 358:
+	> 654703
+Grade: 0 bulls and 6 cows
+Turn 359:
+	> 456703
+Grade: 0 bulls and 6 cows
+Turn 360:
+	> 546703
+Grade: 0 bulls and 6 cows
+Turn 361:
+	> 645703
+Grade: 0 bulls and 6 cows
+Turn 362:
+	> 465703
+Grade: 1 bull and 5 cows
+Turn 363:
+	> 467503
+Grade: 3 bulls and 3 cows
+Turn 364:
+	> 647503
+Grade: 2 bulls and 4 cows
+Turn 365:
+	> 746503
+Grade: 1 bull and 5 cows
+Turn 366:
+	> 476503
+Grade: 1 bull and 5 cows
+Turn 367:
+	> 674503
+Grade: 1 bull and 5 cows
+Turn 368:
+	> 764503
+Grade: 2 bulls and 4 cows
+Turn 369:
+	> 763504
+Grade: 3 bulls and 3 cows
+Turn 370:
+	> 673504
+Grade: 2 bulls and 4 cows
+Turn 371:
+	> 376504
+Grade: 2 bulls and 4 cows
+Turn 372:
+	> 736504
+Grade: 2 bulls and 4 cows
+Turn 373:
+	> 637504
+Grade: 3 bulls and 3 cows
+Turn 374:
+	> 367504
+Grade: 4 bulls and 2 cows
+Turn 375:
+	> 567304
+Grade: 3 bulls and 3 cows
+Turn 376:
+	> 657304
+Grade: 2 bulls and 4 cows
+Turn 377:
+	> 756304
+Grade: 1 bull and 5 cows
+Turn 378:
+	> 576304
+Grade: 1 bull and 5 cows
+Turn 379:
+	> 675304
+Grade: 1 bull and 5 cows
+Turn 380:
+	> 765304
+Grade: 2 bulls and 4 cows
+Turn 381:
+	> 735604
+Grade: 1 bull and 5 cows
+Turn 382:
+	> 375604
+Grade: 1 bull and 5 cows
+Turn 383:
+	> 573604
+Grade: 1 bull and 5 cows
+Turn 384:
+	> 753604
+Grade: 1 bull and 5 cows
+Turn 385:
+	> 357604
+Grade: 2 bulls and 4 cows
+Turn 386:
+	> 537604
+Grade: 2 bulls and 4 cows
+Turn 387:
+	> 536704
+Grade: 1 bull and 5 cows
+Turn 388:
+	> 356704
+Grade: 1 bull and 5 cows
+Turn 389:
+	> 653704
+Grade: 1 bull and 5 cows
+Turn 390:
+	> 563704
+Grade: 2 bulls and 4 cows
+Turn 391:
+	> 365704
+Grade: 2 bulls and 4 cows
+Turn 392:
+	> 635704
+Grade: 1 bull and 5 cows
+Turn 393:
+	> 035764
+Grade: 2 bulls and 4 cows
+Turn 394:
+	> 305764
+Grade: 1 bull and 5 cows
+Turn 395:
+	> 503764
+Grade: 1 bull and 5 cows
+Turn 396:
+	> 053764
+Grade: 2 bulls and 4 cows
+Turn 397:
+	> 350764
+Grade: 1 bull and 5 cows
+Turn 398:
+	> 530764
+Grade: 1 bull and 5 cows
+Turn 399:
+	> 730564
+Grade: 2 bulls and 4 cows
+Turn 400:
+	> 370564
+Grade: 2 bulls and 4 cows
+Turn 401:
+	> 073564
+Grade: 3 bulls and 3 cows
+Turn 402:
+	> 703564
+Grade: 2 bulls and 4 cows
+Turn 403:
+	> 307564
+Grade: 3 bulls and 3 cows
+Turn 404:
+	> 037564
+Grade: 4 bulls and 2 cows
+Turn 405:
+	> 057364
+Grade: 3 bulls and 3 cows
+Turn 406:
+	> 507364
+Grade: 2 bulls and 4 cows
+Turn 407:
+	> 705364
+Grade: 1 bull and 5 cows
+Turn 408:
+	> 075364
+Grade: 2 bulls and 4 cows
+Turn 409:
+	> 570364
+Grade: 1 bull and 5 cows
+Turn 410:
+	> 750364
+Grade: 1 bull and 5 cows
+Turn 411:
+	> 753064
+Grade: 1 bull and 5 cows
+Turn 412:
+	> 573064
+Grade: 1 bull and 5 cows
+Turn 413:
+	> 375064
+Grade: 1 bull and 5 cows
+Turn 414:
+	> 735064
+Grade: 1 bull and 5 cows
+Turn 415:
+	> 537064
+Grade: 2 bulls and 4 cows
+Turn 416:
+	> 357064
+Grade: 2 bulls and 4 cows
+Turn 417:
+	> 657034
+Grade: 3 bulls and 3 cows
+Turn 418:
+	> 567034
+Grade: 4 bulls and 2 cows
+Turn 419:
+	> 765034
+Grade: 3 bulls and 3 cows
+Turn 420:
+	> 675034
+Grade: 2 bulls and 4 cows
+Turn 421:
+	> 576034
+Grade: 2 bulls and 4 cows
+Turn 422:
+	> 756034
+Grade: 2 bulls and 4 cows
+Turn 423:
+	> 056734
+Grade: 3 bulls and 3 cows
+Turn 424:
+	> 506734
+Grade: 2 bulls and 4 cows
+Turn 425:
+	> 605734
+Grade: 2 bulls and 4 cows
+Turn 426:
+	> 065734
+Grade: 4 bulls and 2 cows
+Turn 427:
+	> 560734
+Grade: 3 bulls and 3 cows
+Turn 428:
+	> 650734
+Grade: 2 bulls and 4 cows
+Turn 429:
+	> 670534
+Grade: 3 bulls and 3 cows
+Turn 430:
+	> 760534
+Grade: 4 bulls and 2 cows
+Turn 431:
+	> 067534
+Grade: 6 bulls and 0 cows
+/Congratulations! You guessed the secret code.
+[1;31m
+Start test 4[0m
+&Input the length of the secret code:
+> 11
+3Input the number of possible symbols in the code:
+> 10
+YError: it's not possible to generate a code with a length of 11 with 10 unique symbols.
+[1;31m
+Start test 5[0m
+&Input the length of the secret code:
+> 4
+3Input the number of possible symbols in the code:
+> 16
+c49b
++The secret is prepared: **** (0-9) (a-f).
+Okay, let's start a game!
+	Turn 1:
+> 0000
+Grade: 0 bulls and 0 cows
+	Turn 2:
+> 1111
+Grade: 0 bulls and 0 cows
+	Turn 3:
+> 2222
+Grade: 0 bulls and 0 cows
+	Turn 4:
+> 3333
 Grade: 0 bulls and 0 cows
 	Turn 5:
 > 4444
@@ -53,77 +1511,97 @@
 Grade: 0 bulls and 0 cows
 	Turn 7:
 > 6666
-Grade: 1 bull and 3 cows
+Grade: 0 bulls and 0 cows
 	Turn 8:
 > 7777
-Grade: 1 bull and 3 cows
+Grade: 0 bulls and 0 cows
 	Turn 9:
-> 2467
-Grade: 0 bulls and 4 cows
+> 8888
+Grade: 0 bulls and 0 cows
 
 Turn 10:
-> 4267
-Grade: 2 bulls and 2 cows
-
-Turn 11:
-> 6247
+> 9999
 Grade: 1 bull and 3 cows
 
+Turn 11:
+> aaaa
+Grade: 0 bulls and 0 cows
+
 Turn 12:
-> 2647
-Grade: 0 bulls and 4 cows
+> bbbb
+Grade: 1 bull and 3 cows
 
 Turn 13:
-> 4627
+> cccc
 Grade: 1 bull and 3 cows
 
 Turn 14:
-> 6427
+> 49bc
 Grade: 0 bulls and 4 cows
 
 Turn 15:
-> 7426
+> 94bc
 Grade: 1 bull and 3 cows
 
 Turn 16:
-> 4726
+> b49c
 Grade: 2 bulls and 2 cows
 
 Turn 17:
-> 2746
+> 4b9c
 Grade: 1 bull and 3 cows
 
 Turn 18:
-> 7246
-Grade: 2 bulls and 2 cows
+> 9b4c
+Grade: 0 bulls and 4 cows
 
 Turn 19:
-> 4276
+> b94c
+Grade: 0 bulls and 4 cows
+
+Turn 20:
+> c94b
+Grade: 2 bulls and 2 cows
+
+Turn 21:
+> 9c4b
+Grade: 1 bull and 3 cows
+
+Turn 22:
+> 4c9b
+Grade: 2 bulls and 2 cows
+
+Turn 23:
+> c49b
 Grade: 4 bulls and 0 cows
 /Congratulations! You guessed the secret code.
 [1;31m
-Start test 3[0m
-)Please, enter the secret code's length:
+Start test 6[0m
+&Input the length of the secret code:
 > 6
+3Input the number of possible symbols in the code:
+> 36
+kb42jf
+-The secret is prepared: ****** (0-9) (a-z).
 Okay, let's start a game!
 	Turn 1:
 	> 000000
-Grade: 1 bull and 5 cows
+Grade: 0 bulls and 0 cows
 	Turn 2:
 	> 111111
-Grade: 1 bull and 5 cows
+Grade: 0 bulls and 0 cows
 	Turn 3:
 	> 222222
 Grade: 1 bull and 5 cows
 	Turn 4:
 	> 333333
-Grade: 1 bull and 5 cows
+Grade: 0 bulls and 0 cows
 	Turn 5:
 	> 444444
-Grade: 0 bulls and 0 cows
+Grade: 1 bull and 5 cows
 	Turn 6:
 	> 555555
-Grade: 1 bull and 5 cows
+Grade: 0 bulls and 0 cows
 	Turn 7:
 	> 666666
 Grade: 0 bulls and 0 cows
@@ -132,1858 +1610,1681 @@ Turn 19:
 Grade: 0 bulls and 0 cows
 	Turn 9:
 	> 888888
-Grade: 1 bull and 5 cows
+Grade: 0 bulls and 0 cows
 
 Turn 10:
-	> 012358
-Grade: 0 bulls and 6 cows
+	> 999999
+Grade: 0 bulls and 0 cows
 
 Turn 11:
-	> 102358
-Grade: 1 bull and 5 cows
+	> aaaaaa
+Grade: 0 bulls and 0 cows
 
 Turn 12:
-	> 201358
-Grade: 0 bulls and 6 cows
+	> bbbbbb
+Grade: 1 bull and 5 cows
 
 Turn 13:
-	> 021358
-Grade: 1 bull and 5 cows
+	> cccccc
+Grade: 0 bulls and 0 cows
 
 Turn 14:
-	> 120358
-Grade: 2 bulls and 4 cows
+	> dddddd
+Grade: 0 bulls and 0 cows
 
 Turn 15:
-	> 210358
-Grade: 0 bulls and 6 cows
+	> eeeeee
+Grade: 0 bulls and 0 cows
 
 Turn 16:
-	> 310258
-Grade: 0 bulls and 6 cows
-
-Turn 17:
-	> 130258
+	> ffffff
 Grade: 1 bull and 5 cows
 
+Turn 17:
+	> gggggg
+Grade: 0 bulls and 0 cows
+
 Turn 18:
-	> 031258
-Grade: 0 bulls and 6 cows
+	> hhhhhh
+Grade: 0 bulls and 0 cows
 
 Turn 19:
-	> 301258
-Grade: 0 bulls and 6 cows
+	> iiiiii
+Grade: 0 bulls and 0 cows
 
 Turn 20:
-	> 103258
+	> jjjjjj
 Grade: 1 bull and 5 cows
 
 Turn 21:
-	> 013258
-Grade: 0 bulls and 6 cows
+	> kkkkkk
+Grade: 1 bull and 5 cows
 
 Turn 22:
-	> 023158
+	> 24bfjk
 Grade: 1 bull and 5 cows
 
 Turn 23:
-	> 203158
-Grade: 0 bulls and 6 cows
+	> 42bfjk
+Grade: 1 bull and 5 cows
 
 Turn 24:
-	> 302158
-Grade: 0 bulls and 6 cows
+	> b24fjk
+Grade: 2 bulls and 4 cows
 
 Turn 25:
-	> 032158
-Grade: 0 bulls and 6 cows
+	> 2b4fjk
+Grade: 3 bulls and 3 cows
 
 Turn 26:
-	> 230158
-Grade: 0 bulls and 6 cows
+	> 4b2fjk
+Grade: 2 bulls and 4 cows
 
 Turn 27:
-	> 320158
+	> b42fjk
 Grade: 1 bull and 5 cows
 
 Turn 28:
-	> 321058
+	> f42bjk
 Grade: 1 bull and 5 cows
 
 Turn 29:
-	> 231058
-Grade: 0 bulls and 6 cows
+	> 4f2bjk
+Grade: 1 bull and 5 cows
 
 Turn 30:
-	> 132058
-Grade: 1 bull and 5 cows
-
-Turn 31:
-	> 312058
-Grade: 0 bulls and 6 cows
-
-Turn 32:
-	> 213058
-Grade: 0 bulls and 6 cows
-
-Turn 33:
-	> 123058
+	> 2f4bjk
 Grade: 2 bulls and 4 cows
 
-Turn 34:
-	> 523018
+Turn 31:
+	> f24bjk
+Grade: 2 bulls and 4 cows
+
+Turn 32:
+	> 42fbjk
 Grade: 1 bull and 5 cows
+
+Turn 33:
+	> 24fbjk
+Grade: 1 bull and 5 cows
+
+Turn 34:
+	> 2bf4jk
+Grade: 2 bulls and 4 cows
 
 Turn 35:
-	> 253018
-Grade: 0 bulls and 6 cows
+	> b2f4jk
+Grade: 1 bull and 5 cows
 
 Turn 36:
-	> 352018
-Grade: 0 bulls and 6 cows
+	> f2b4jk
+Grade: 1 bull and 5 cows
 
 Turn 37:
-	> 532018
-Grade: 0 bulls and 6 cows
+	> 2fb4jk
+Grade: 1 bull and 5 cows
 
 Turn 38:
-	> 235018
-Grade: 0 bulls and 6 cows
+	> bf24jk
+Grade: 1 bull and 5 cows
 
 Turn 39:
-	> 325018
-Grade: 1 bull and 5 cows
+	> fb24jk
+Grade: 2 bulls and 4 cows
 
 Turn 40:
-	> 025318
-Grade: 1 bull and 5 cows
+	> fb42jk
+Grade: 4 bulls and 2 cows
 
 Turn 41:
-	> 205318
-Grade: 0 bulls and 6 cows
+	> bf42jk
+Grade: 3 bulls and 3 cows
 
 Turn 42:
-	> 502318
-Grade: 0 bulls and 6 cows
+	> 4fb2jk
+Grade: 2 bulls and 4 cows
 
 Turn 43:
-	> 052318
-Grade: 0 bulls and 6 cows
+	> f4b2jk
+Grade: 2 bulls and 4 cows
 
 Turn 44:
-	> 250318
-Grade: 0 bulls and 6 cows
+	> b4f2jk
+Grade: 2 bulls and 4 cows
 
 Turn 45:
-	> 520318
-Grade: 1 bull and 5 cows
+	> 4bf2jk
+Grade: 3 bulls and 3 cows
 
 Turn 46:
-	> 530218
-Grade: 0 bulls and 6 cows
+	> jbf24k
+Grade: 2 bulls and 4 cows
 
 Turn 47:
-	> 350218
-Grade: 0 bulls and 6 cows
+	> bjf24k
+Grade: 1 bull and 5 cows
 
 Turn 48:
-	> 053218
-Grade: 0 bulls and 6 cows
+	> fjb24k
+Grade: 1 bull and 5 cows
 
 Turn 49:
-	> 503218
-Grade: 0 bulls and 6 cows
+	> jfb24k
+Grade: 1 bull and 5 cows
 
 Turn 50:
-	> 305218
-Grade: 0 bulls and 6 cows
+	> bfj24k
+Grade: 1 bull and 5 cows
 
 Turn 51:
-	> 035218
-Grade: 0 bulls and 6 cows
+	> fbj24k
+Grade: 2 bulls and 4 cows
 
 Turn 52:
-	> 032518
+	> 2bjf4k
 Grade: 1 bull and 5 cows
 
 Turn 53:
-	> 302518
-Grade: 1 bull and 5 cows
+	> b2jf4k
+Grade: 0 bulls and 6 cows
 
 Turn 54:
-	> 203518
-Grade: 1 bull and 5 cows
+	> j2bf4k
+Grade: 0 bulls and 6 cows
 
 Turn 55:
-	> 023518
-Grade: 2 bulls and 4 cows
+	> 2jbf4k
+Grade: 0 bulls and 6 cows
 
 Turn 56:
-	> 320518
-Grade: 2 bulls and 4 cows
+	> bj2f4k
+Grade: 0 bulls and 6 cows
 
 Turn 57:
-	> 230518
+	> jb2f4k
 Grade: 1 bull and 5 cows
 
 Turn 58:
-	> 130528
-Grade: 2 bulls and 4 cows
+	> jf2b4k
+Grade: 0 bulls and 6 cows
 
 Turn 59:
-	> 310528
-Grade: 1 bull and 5 cows
+	> fj2b4k
+Grade: 0 bulls and 6 cows
 
 Turn 60:
-	> 013528
-Grade: 1 bull and 5 cows
+	> 2jfb4k
+Grade: 0 bulls and 6 cows
 
 Turn 61:
-	> 103528
-Grade: 2 bulls and 4 cows
+	> j2fb4k
+Grade: 0 bulls and 6 cows
 
 Turn 62:
-	> 301528
-Grade: 1 bull and 5 cows
+	> f2jb4k
+Grade: 0 bulls and 6 cows
 
 Turn 63:
-	> 031528
-Grade: 1 bull and 5 cows
+	> 2fjb4k
+Grade: 0 bulls and 6 cows
 
 Turn 64:
-	> 531028
+	> 2fbj4k
 Grade: 0 bulls and 6 cows
 
 Turn 65:
-	> 351028
+	> f2bj4k
 Grade: 0 bulls and 6 cows
 
 Turn 66:
-	> 153028
-Grade: 1 bull and 5 cows
+	> b2fj4k
+Grade: 0 bulls and 6 cows
 
 Turn 67:
-	> 513028
-Grade: 0 bulls and 6 cows
+	> 2bfj4k
+Grade: 1 bull and 5 cows
 
 Turn 68:
-	> 315028
-Grade: 0 bulls and 6 cows
+	> fb2j4k
+Grade: 1 bull and 5 cows
 
 Turn 69:
-	> 135028
-Grade: 1 bull and 5 cows
+	> bf2j4k
+Grade: 0 bulls and 6 cows
 
 Turn 70:
-	> 105328
-Grade: 1 bull and 5 cows
+	> 4f2jbk
+Grade: 0 bulls and 6 cows
 
 Turn 71:
-	> 015328
+	> f42jbk
 Grade: 0 bulls and 6 cows
 
 Turn 72:
-	> 510328
+	> 24fjbk
 Grade: 0 bulls and 6 cows
 
 Turn 73:
-	> 150328
-Grade: 1 bull and 5 cows
+	> 42fjbk
+Grade: 0 bulls and 6 cows
 
 Turn 74:
-	> 051328
-Grade: 0 bulls and 6 cows
+	> f24jbk
+Grade: 1 bull and 5 cows
 
 Turn 75:
-	> 501328
-Grade: 0 bulls and 6 cows
+	> 2f4jbk
+Grade: 1 bull and 5 cows
 
 Turn 76:
-	> 503128
-Grade: 0 bulls and 6 cows
+	> jf42bk
+Grade: 2 bulls and 4 cows
 
 Turn 77:
-	> 053128
-Grade: 0 bulls and 6 cows
+	> fj42bk
+Grade: 2 bulls and 4 cows
 
 Turn 78:
-	> 350128
-Grade: 0 bulls and 6 cows
+	> 4jf2bk
+Grade: 1 bull and 5 cows
 
 Turn 79:
-	> 530128
-Grade: 0 bulls and 6 cows
+	> j4f2bk
+Grade: 1 bull and 5 cows
 
 Turn 80:
-	> 035128
-Grade: 0 bulls and 6 cows
+	> f4j2bk
+Grade: 1 bull and 5 cows
 
 Turn 81:
-	> 305128
-Grade: 0 bulls and 6 cows
+	> 4fj2bk
+Grade: 1 bull and 5 cows
 
 Turn 82:
-	> 205138
+	> 42jfbk
 Grade: 0 bulls and 6 cows
 
 Turn 83:
-	> 025138
-Grade: 1 bull and 5 cows
+	> 24jfbk
+Grade: 0 bulls and 6 cows
 
 Turn 84:
-	> 520138
-Grade: 1 bull and 5 cows
+	> j42fbk
+Grade: 0 bulls and 6 cows
 
 Turn 85:
-	> 250138
+	> 4j2fbk
 Grade: 0 bulls and 6 cows
 
 Turn 86:
-	> 052138
-Grade: 0 bulls and 6 cows
+	> 2j4fbk
+Grade: 1 bull and 5 cows
 
 Turn 87:
-	> 502138
-Grade: 0 bulls and 6 cows
+	> j24fbk
+Grade: 1 bull and 5 cows
 
 Turn 88:
-	> 102538
-Grade: 2 bulls and 4 cows
+	> j2f4bk
+Grade: 0 bulls and 6 cows
 
 Turn 89:
-	> 012538
-Grade: 1 bull and 5 cows
+	> 2jf4bk
+Grade: 0 bulls and 6 cows
 
 Turn 90:
-	> 210538
-Grade: 1 bull and 5 cows
+	> fj24bk
+Grade: 0 bulls and 6 cows
 
 Turn 91:
-	> 120538
-Grade: 3 bulls and 3 cows
+	> jf24bk
+Grade: 0 bulls and 6 cows
 
 Turn 92:
-	> 021538
-Grade: 2 bulls and 4 cows
+	> 2fj4bk
+Grade: 0 bulls and 6 cows
 
 Turn 93:
-	> 201538
-Grade: 1 bull and 5 cows
+	> f2j4bk
+Grade: 0 bulls and 6 cows
 
 Turn 94:
-	> 251038
+	> b2j4fk
 Grade: 0 bulls and 6 cows
 
 Turn 95:
-	> 521038
+	> 2bj4fk
 Grade: 1 bull and 5 cows
 
 Turn 96:
-	> 125038
-Grade: 2 bulls and 4 cows
+	> jb24fk
+Grade: 1 bull and 5 cows
 
 Turn 97:
-	> 215038
+	> bj24fk
 Grade: 0 bulls and 6 cows
 
 Turn 98:
-	> 512038
+	> 2jb4fk
 Grade: 0 bulls and 6 cows
 
 Turn 99:
-	> 152038
-Grade: 1 bull and 5 cows
+	> j2b4fk
+Grade: 0 bulls and 6 cows
 Turn 100:
-	> 150238
-Grade: 1 bull and 5 cows
+	> 42bjfk
+Grade: 0 bulls and 6 cows
 Turn 101:
-	> 510238
+	> 24bjfk
 Grade: 0 bulls and 6 cows
 Turn 102:
-	> 015238
+	> b42jfk
 Grade: 0 bulls and 6 cows
 Turn 103:
-	> 105238
+	> 4b2jfk
 Grade: 1 bull and 5 cows
 Turn 104:
-	> 501238
-Grade: 0 bulls and 6 cows
+	> 2b4jfk
+Grade: 2 bulls and 4 cows
 Turn 105:
-	> 051238
-Grade: 0 bulls and 6 cows
+	> b24jfk
+Grade: 1 bull and 5 cows
 Turn 106:
-	> 351208
-Grade: 1 bull and 5 cows
+	> bj42fk
+Grade: 2 bulls and 4 cows
 Turn 107:
-	> 531208
-Grade: 1 bull and 5 cows
+	> jb42fk
+Grade: 3 bulls and 3 cows
 Turn 108:
-	> 135208
+	> 4bj2fk
 Grade: 2 bulls and 4 cows
 Turn 109:
-	> 315208
+	> b4j2fk
 Grade: 1 bull and 5 cows
 Turn 110:
-	> 513208
+	> j4b2fk
 Grade: 1 bull and 5 cows
 Turn 111:
-	> 153208
-Grade: 2 bulls and 4 cows
+	> 4jb2fk
+Grade: 1 bull and 5 cows
 Turn 112:
-	> 253108
-Grade: 1 bull and 5 cows
+	> 4j2bfk
+Grade: 0 bulls and 6 cows
 Turn 113:
-	> 523108
-Grade: 2 bulls and 4 cows
+	> j42bfk
+Grade: 0 bulls and 6 cows
 Turn 114:
-	> 325108
-Grade: 2 bulls and 4 cows
+	> 24jbfk
+Grade: 0 bulls and 6 cows
 Turn 115:
-	> 235108
-Grade: 1 bull and 5 cows
+	> 42jbfk
+Grade: 0 bulls and 6 cows
 Turn 116:
-	> 532108
+	> j24bfk
 Grade: 1 bull and 5 cows
 Turn 117:
-	> 352108
+	> 2j4bfk
 Grade: 1 bull and 5 cows
 Turn 118:
-	> 312508
-Grade: 2 bulls and 4 cows
+	> fj4b2k
+Grade: 1 bull and 5 cows
 Turn 119:
-	> 132508
-Grade: 3 bulls and 3 cows
+	> jf4b2k
+Grade: 1 bull and 5 cows
 Turn 120:
-	> 231508
-Grade: 2 bulls and 4 cows
+	> 4fjb2k
+Grade: 0 bulls and 6 cows
 Turn 121:
-	> 321508
-Grade: 3 bulls and 3 cows
+	> f4jb2k
+Grade: 0 bulls and 6 cows
 Turn 122:
-	> 123508
-Grade: 4 bulls and 2 cows
+	> j4fb2k
+Grade: 0 bulls and 6 cows
 Turn 123:
-	> 213508
-Grade: 2 bulls and 4 cows
+	> 4jfb2k
+Grade: 0 bulls and 6 cows
 Turn 124:
-	> 215308
-Grade: 1 bull and 5 cows
+	> bjf42k
+Grade: 0 bulls and 6 cows
 Turn 125:
-	> 125308
-Grade: 3 bulls and 3 cows
+	> jbf42k
+Grade: 1 bull and 5 cows
 Turn 126:
-	> 521308
-Grade: 2 bulls and 4 cows
+	> fbj42k
+Grade: 1 bull and 5 cows
 Turn 127:
-	> 251308
-Grade: 1 bull and 5 cows
+	> bfj42k
+Grade: 0 bulls and 6 cows
 Turn 128:
-	> 152308
-Grade: 2 bulls and 4 cows
+	> jfb42k
+Grade: 0 bulls and 6 cows
 Turn 129:
-	> 512308
-Grade: 1 bull and 5 cows
+	> fjb42k
+Grade: 0 bulls and 6 cows
 Turn 130:
-	> 812305
-Grade: 1 bull and 5 cows
+	> f4bj2k
+Grade: 0 bulls and 6 cows
 Turn 131:
-	> 182305
-Grade: 2 bulls and 4 cows
+	> 4fbj2k
+Grade: 0 bulls and 6 cows
 Turn 132:
-	> 281305
+	> bf4j2k
 Grade: 1 bull and 5 cows
 Turn 133:
-	> 821305
+	> fb4j2k
 Grade: 2 bulls and 4 cows
 Turn 134:
-	> 128305
-Grade: 4 bulls and 2 cows
-Turn 135:
-	> 218305
-Grade: 2 bulls and 4 cows
-Turn 136:
-	> 318205
-Grade: 2 bulls and 4 cows
-Turn 137:
-	> 138205
-Grade: 3 bulls and 3 cows
-Turn 138:
-	> 831205
+	> 4bfj2k
 Grade: 1 bull and 5 cows
+Turn 135:
+	> b4fj2k
+Grade: 0 bulls and 6 cows
+Turn 136:
+	> b4jf2k
+Grade: 0 bulls and 6 cows
+Turn 137:
+	> 4bjf2k
+Grade: 1 bull and 5 cows
+Turn 138:
+	> jb4f2k
+Grade: 2 bulls and 4 cows
 Turn 139:
-	> 381205
+	> bj4f2k
 Grade: 1 bull and 5 cows
 Turn 140:
-	> 183205
-Grade: 2 bulls and 4 cows
+	> 4jbf2k
+Grade: 0 bulls and 6 cows
 Turn 141:
-	> 813205
-Grade: 1 bull and 5 cows
+	> j4bf2k
+Grade: 0 bulls and 6 cows
 Turn 142:
-	> 823105
-Grade: 2 bulls and 4 cows
-Turn 143:
-	> 283105
+	> k4bf2j
 Grade: 1 bull and 5 cows
+Turn 143:
+	> 4kbf2j
+Grade: 0 bulls and 6 cows
 Turn 144:
-	> 382105
+	> bk4f2j
 Grade: 1 bull and 5 cows
 Turn 145:
-	> 832105
-Grade: 1 bull and 5 cows
-Turn 146:
-	> 238105
-Grade: 2 bulls and 4 cows
-Turn 147:
-	> 328105
+	> kb4f2j
 Grade: 3 bulls and 3 cows
-Turn 148:
-	> 321805
-Grade: 2 bulls and 4 cows
-Turn 149:
-	> 231805
+Turn 146:
+	> 4bkf2j
 Grade: 1 bull and 5 cows
+Turn 147:
+	> b4kf2j
+Grade: 0 bulls and 6 cows
+Turn 148:
+	> f4kb2j
+Grade: 0 bulls and 6 cows
+Turn 149:
+	> 4fkb2j
+Grade: 0 bulls and 6 cows
 Turn 150:
-	> 132805
+	> kf4b2j
 Grade: 2 bulls and 4 cows
 Turn 151:
-	> 312805
+	> fk4b2j
 Grade: 1 bull and 5 cows
 Turn 152:
-	> 213805
-Grade: 1 bull and 5 cows
+	> 4kfb2j
+Grade: 0 bulls and 6 cows
 Turn 153:
-	> 123805
-Grade: 3 bulls and 3 cows
-Turn 154:
-	> 023815
+	> k4fb2j
 Grade: 1 bull and 5 cows
+Turn 154:
+	> kbf42j
+Grade: 2 bulls and 4 cows
 Turn 155:
-	> 203815
+	> bkf42j
 Grade: 0 bulls and 6 cows
 Turn 156:
-	> 302815
+	> fkb42j
 Grade: 0 bulls and 6 cows
 Turn 157:
-	> 032815
-Grade: 0 bulls and 6 cows
+	> kfb42j
+Grade: 1 bull and 5 cows
 Turn 158:
-	> 230815
+	> bfk42j
 Grade: 0 bulls and 6 cows
 Turn 159:
-	> 320815
+	> fbk42j
 Grade: 1 bull and 5 cows
 Turn 160:
-	> 820315
-Grade: 1 bull and 5 cows
+	> fb4k2j
+Grade: 2 bulls and 4 cows
 Turn 161:
-	> 280315
-Grade: 0 bulls and 6 cows
+	> bf4k2j
+Grade: 1 bull and 5 cows
 Turn 162:
-	> 082315
+	> 4fbk2j
 Grade: 0 bulls and 6 cows
 Turn 163:
-	> 802315
+	> f4bk2j
 Grade: 0 bulls and 6 cows
 Turn 164:
-	> 208315
-Grade: 1 bull and 5 cows
+	> b4fk2j
+Grade: 0 bulls and 6 cows
 Turn 165:
-	> 028315
-Grade: 2 bulls and 4 cows
+	> 4bfk2j
+Grade: 1 bull and 5 cows
 Turn 166:
-	> 038215
+	> 2bfk4j
 Grade: 1 bull and 5 cows
 Turn 167:
-	> 308215
-Grade: 1 bull and 5 cows
+	> b2fk4j
+Grade: 0 bulls and 6 cows
 Turn 168:
-	> 803215
+	> f2bk4j
 Grade: 0 bulls and 6 cows
 Turn 169:
-	> 083215
+	> 2fbk4j
 Grade: 0 bulls and 6 cows
 Turn 170:
-	> 380215
+	> bf2k4j
 Grade: 0 bulls and 6 cows
 Turn 171:
-	> 830215
-Grade: 0 bulls and 6 cows
+	> fb2k4j
+Grade: 1 bull and 5 cows
 Turn 172:
-	> 832015
-Grade: 0 bulls and 6 cows
+	> kb2f4j
+Grade: 2 bulls and 4 cows
 Turn 173:
-	> 382015
+	> bk2f4j
 Grade: 0 bulls and 6 cows
 Turn 174:
-	> 283015
+	> 2kbf4j
 Grade: 0 bulls and 6 cows
 Turn 175:
-	> 823015
+	> k2bf4j
 Grade: 1 bull and 5 cows
 Turn 176:
-	> 328015
-Grade: 2 bulls and 4 cows
+	> b2kf4j
+Grade: 0 bulls and 6 cows
 Turn 177:
-	> 238015
+	> 2bkf4j
 Grade: 1 bull and 5 cows
 Turn 178:
-	> 138025
-Grade: 2 bulls and 4 cows
-Turn 179:
-	> 318025
-Grade: 1 bull and 5 cows
-Turn 180:
-	> 813025
+	> 2fkb4j
 Grade: 0 bulls and 6 cows
-Turn 181:
-	> 183025
+Turn 179:
+	> f2kb4j
+Grade: 0 bulls and 6 cows
+Turn 180:
+	> k2fb4j
 Grade: 1 bull and 5 cows
+Turn 181:
+	> 2kfb4j
+Grade: 0 bulls and 6 cows
 Turn 182:
-	> 381025
+	> fk2b4j
 Grade: 0 bulls and 6 cows
 Turn 183:
-	> 831025
-Grade: 0 bulls and 6 cows
+	> kf2b4j
+Grade: 1 bull and 5 cows
 Turn 184:
-	> 031825
-Grade: 0 bulls and 6 cows
+	> kfb24j
+Grade: 2 bulls and 4 cows
 Turn 185:
-	> 301825
-Grade: 0 bulls and 6 cows
+	> fkb24j
+Grade: 1 bull and 5 cows
 Turn 186:
-	> 103825
+	> bkf24j
 Grade: 1 bull and 5 cows
 Turn 187:
-	> 013825
-Grade: 0 bulls and 6 cows
+	> kbf24j
+Grade: 3 bulls and 3 cows
 Turn 188:
-	> 310825
-Grade: 0 bulls and 6 cows
+	> fbk24j
+Grade: 2 bulls and 4 cows
 Turn 189:
-	> 130825
+	> bfk24j
 Grade: 1 bull and 5 cows
 Turn 190:
-	> 180325
+	> 4fk2bj
 Grade: 1 bull and 5 cows
 Turn 191:
-	> 810325
-Grade: 0 bulls and 6 cows
+	> f4k2bj
+Grade: 1 bull and 5 cows
 Turn 192:
-	> 018325
-Grade: 1 bull and 5 cows
-Turn 193:
-	> 108325
+	> k4f2bj
 Grade: 2 bulls and 4 cows
+Turn 193:
+	> 4kf2bj
+Grade: 1 bull and 5 cows
 Turn 194:
-	> 801325
-Grade: 0 bulls and 6 cows
+	> fk42bj
+Grade: 2 bulls and 4 cows
 Turn 195:
-	> 081325
-Grade: 0 bulls and 6 cows
+	> kf42bj
+Grade: 3 bulls and 3 cows
 Turn 196:
-	> 083125
-Grade: 0 bulls and 6 cows
+	> 2f4kbj
+Grade: 1 bull and 5 cows
 Turn 197:
-	> 803125
-Grade: 0 bulls and 6 cows
+	> f24kbj
+Grade: 1 bull and 5 cows
 Turn 198:
-	> 308125
-Grade: 1 bull and 5 cows
+	> 42fkbj
+Grade: 0 bulls and 6 cows
 Turn 199:
-	> 038125
-Grade: 1 bull and 5 cows
+	> 24fkbj
+Grade: 0 bulls and 6 cows
 Turn 200:
-	> 830125
+	> f42kbj
 Grade: 0 bulls and 6 cows
 Turn 201:
-	> 380125
+	> 4f2kbj
 Grade: 0 bulls and 6 cows
 Turn 202:
-	> 280135
+	> 4k2fbj
 Grade: 0 bulls and 6 cows
 Turn 203:
-	> 820135
+	> k42fbj
 Grade: 1 bull and 5 cows
 Turn 204:
-	> 028135
-Grade: 2 bulls and 4 cows
+	> 24kfbj
+Grade: 0 bulls and 6 cows
 Turn 205:
-	> 208135
-Grade: 1 bull and 5 cows
+	> 42kfbj
+Grade: 0 bulls and 6 cows
 Turn 206:
-	> 802135
-Grade: 0 bulls and 6 cows
+	> k24fbj
+Grade: 2 bulls and 4 cows
 Turn 207:
-	> 082135
-Grade: 0 bulls and 6 cows
+	> 2k4fbj
+Grade: 1 bull and 5 cows
 Turn 208:
-	> 182035
-Grade: 1 bull and 5 cows
-Turn 209:
-	> 812035
+	> 2kf4bj
 Grade: 0 bulls and 6 cows
-Turn 210:
-	> 218035
+Turn 209:
+	> k2f4bj
 Grade: 1 bull and 5 cows
+Turn 210:
+	> f2k4bj
+Grade: 0 bulls and 6 cows
 Turn 211:
-	> 128035
-Grade: 3 bulls and 3 cows
+	> 2fk4bj
+Grade: 0 bulls and 6 cows
 Turn 212:
-	> 821035
+	> kf24bj
 Grade: 1 bull and 5 cows
 Turn 213:
-	> 281035
+	> fk24bj
 Grade: 0 bulls and 6 cows
 Turn 214:
-	> 201835
+	> bk24fj
 Grade: 0 bulls and 6 cows
 Turn 215:
-	> 021835
-Grade: 1 bull and 5 cows
-Turn 216:
-	> 120835
+	> kb24fj
 Grade: 2 bulls and 4 cows
+Turn 216:
+	> 2bk4fj
+Grade: 1 bull and 5 cows
 Turn 217:
-	> 210835
+	> b2k4fj
 Grade: 0 bulls and 6 cows
 Turn 218:
-	> 012835
-Grade: 0 bulls and 6 cows
+	> k2b4fj
+Grade: 1 bull and 5 cows
 Turn 219:
-	> 102835
-Grade: 1 bull and 5 cows
+	> 2kb4fj
+Grade: 0 bulls and 6 cows
 Turn 220:
-	> 108235
-Grade: 2 bulls and 4 cows
+	> 4kb2fj
+Grade: 1 bull and 5 cows
 Turn 221:
-	> 018235
-Grade: 1 bull and 5 cows
+	> k4b2fj
+Grade: 2 bulls and 4 cows
 Turn 222:
-	> 810235
-Grade: 0 bulls and 6 cows
-Turn 223:
-	> 180235
+	> b4k2fj
 Grade: 1 bull and 5 cows
+Turn 223:
+	> 4bk2fj
+Grade: 2 bulls and 4 cows
 Turn 224:
-	> 081235
-Grade: 0 bulls and 6 cows
+	> kb42fj
+Grade: 4 bulls and 2 cows
 Turn 225:
-	> 801235
-Grade: 0 bulls and 6 cows
+	> bk42fj
+Grade: 2 bulls and 4 cows
 Turn 226:
-	> 301285
-Grade: 0 bulls and 6 cows
+	> b24kfj
+Grade: 1 bull and 5 cows
 Turn 227:
-	> 031285
-Grade: 0 bulls and 6 cows
+	> 2b4kfj
+Grade: 2 bulls and 4 cows
 Turn 228:
-	> 130285
+	> 4b2kfj
 Grade: 1 bull and 5 cows
 Turn 229:
-	> 310285
+	> b42kfj
 Grade: 0 bulls and 6 cows
 Turn 230:
-	> 013285
+	> 24bkfj
 Grade: 0 bulls and 6 cows
 Turn 231:
-	> 103285
-Grade: 1 bull and 5 cows
+	> 42bkfj
+Grade: 0 bulls and 6 cows
 Turn 232:
-	> 203185
+	> 42kbfj
 Grade: 0 bulls and 6 cows
 Turn 233:
-	> 023185
-Grade: 1 bull and 5 cows
+	> 24kbfj
+Grade: 0 bulls and 6 cows
 Turn 234:
-	> 320185
+	> k42bfj
 Grade: 1 bull and 5 cows
 Turn 235:
-	> 230185
+	> 4k2bfj
 Grade: 0 bulls and 6 cows
 Turn 236:
-	> 032185
-Grade: 0 bulls and 6 cows
+	> 2k4bfj
+Grade: 1 bull and 5 cows
 Turn 237:
-	> 302185
-Grade: 0 bulls and 6 cows
+	> k24bfj
+Grade: 2 bulls and 4 cows
 Turn 238:
-	> 312085
-Grade: 0 bulls and 6 cows
+	> f24bkj
+Grade: 1 bull and 5 cows
 Turn 239:
-	> 132085
+	> 2f4bkj
 Grade: 1 bull and 5 cows
 Turn 240:
-	> 231085
+	> 4f2bkj
 Grade: 0 bulls and 6 cows
 Turn 241:
-	> 321085
-Grade: 1 bull and 5 cows
+	> f42bkj
+Grade: 0 bulls and 6 cows
 Turn 242:
-	> 123085
-Grade: 2 bulls and 4 cows
+	> 24fbkj
+Grade: 0 bulls and 6 cows
 Turn 243:
-	> 213085
+	> 42fbkj
 Grade: 0 bulls and 6 cows
 Turn 244:
-	> 210385
+	> b2f4kj
 Grade: 0 bulls and 6 cows
 Turn 245:
-	> 120385
-Grade: 2 bulls and 4 cows
+	> 2bf4kj
+Grade: 1 bull and 5 cows
 Turn 246:
-	> 021385
+	> fb24kj
 Grade: 1 bull and 5 cows
 Turn 247:
-	> 201385
+	> bf24kj
 Grade: 0 bulls and 6 cows
 Turn 248:
-	> 102385
-Grade: 1 bull and 5 cows
+	> 2fb4kj
+Grade: 0 bulls and 6 cows
 Turn 249:
-	> 012385
+	> f2b4kj
 Grade: 0 bulls and 6 cows
 Turn 250:
-	> 052381
-Grade: 0 bulls and 6 cows
+	> f4b2kj
+Grade: 1 bull and 5 cows
 Turn 251:
-	> 502381
-Grade: 0 bulls and 6 cows
+	> 4fb2kj
+Grade: 1 bull and 5 cows
 Turn 252:
-	> 205381
-Grade: 0 bulls and 6 cows
+	> bf42kj
+Grade: 2 bulls and 4 cows
 Turn 253:
-	> 025381
-Grade: 1 bull and 5 cows
+	> fb42kj
+Grade: 3 bulls and 3 cows
 Turn 254:
-	> 520381
-Grade: 1 bull and 5 cows
+	> 4bf2kj
+Grade: 2 bulls and 4 cows
 Turn 255:
-	> 250381
-Grade: 0 bulls and 6 cows
+	> b4f2kj
+Grade: 1 bull and 5 cows
 Turn 256:
-	> 350281
+	> b42fkj
 Grade: 0 bulls and 6 cows
 Turn 257:
-	> 530281
-Grade: 0 bulls and 6 cows
+	> 4b2fkj
+Grade: 1 bull and 5 cows
 Turn 258:
-	> 035281
-Grade: 0 bulls and 6 cows
+	> 2b4fkj
+Grade: 2 bulls and 4 cows
 Turn 259:
-	> 305281
-Grade: 0 bulls and 6 cows
+	> b24fkj
+Grade: 1 bull and 5 cows
 Turn 260:
-	> 503281
+	> 42bfkj
 Grade: 0 bulls and 6 cows
 Turn 261:
-	> 053281
+	> 24bfkj
 Grade: 0 bulls and 6 cows
 Turn 262:
-	> 023581
-Grade: 2 bulls and 4 cows
+	> 2jbfk4
+Grade: 0 bulls and 6 cows
 Turn 263:
-	> 203581
-Grade: 1 bull and 5 cows
+	> j2bfk4
+Grade: 0 bulls and 6 cows
 Turn 264:
-	> 302581
-Grade: 1 bull and 5 cows
+	> b2jfk4
+Grade: 0 bulls and 6 cows
 Turn 265:
-	> 032581
+	> 2bjfk4
 Grade: 1 bull and 5 cows
 Turn 266:
-	> 230581
+	> jb2fk4
 Grade: 1 bull and 5 cows
 Turn 267:
-	> 320581
-Grade: 2 bulls and 4 cows
+	> bj2fk4
+Grade: 0 bulls and 6 cows
 Turn 268:
-	> 325081
-Grade: 1 bull and 5 cows
+	> fj2bk4
+Grade: 0 bulls and 6 cows
 Turn 269:
-	> 235081
+	> jf2bk4
 Grade: 0 bulls and 6 cows
 Turn 270:
-	> 532081
+	> 2fjbk4
 Grade: 0 bulls and 6 cows
 Turn 271:
-	> 352081
+	> f2jbk4
 Grade: 0 bulls and 6 cows
 Turn 272:
-	> 253081
+	> j2fbk4
 Grade: 0 bulls and 6 cows
 Turn 273:
-	> 523081
-Grade: 1 bull and 5 cows
+	> 2jfbk4
+Grade: 0 bulls and 6 cows
 Turn 274:
-	> 823051
+	> 2bfjk4
 Grade: 1 bull and 5 cows
 Turn 275:
-	> 283051
+	> b2fjk4
 Grade: 0 bulls and 6 cows
 Turn 276:
-	> 382051
+	> f2bjk4
 Grade: 0 bulls and 6 cows
 Turn 277:
-	> 832051
+	> 2fbjk4
 Grade: 0 bulls and 6 cows
 Turn 278:
-	> 238051
-Grade: 1 bull and 5 cows
+	> bf2jk4
+Grade: 0 bulls and 6 cows
 Turn 279:
-	> 328051
-Grade: 2 bulls and 4 cows
+	> fb2jk4
+Grade: 1 bull and 5 cows
 Turn 280:
-	> 028351
+	> fbj2k4
 Grade: 2 bulls and 4 cows
 Turn 281:
-	> 208351
+	> bfj2k4
 Grade: 1 bull and 5 cows
 Turn 282:
-	> 802351
-Grade: 0 bulls and 6 cows
+	> jfb2k4
+Grade: 1 bull and 5 cows
 Turn 283:
-	> 082351
-Grade: 0 bulls and 6 cows
+	> fjb2k4
+Grade: 1 bull and 5 cows
 Turn 284:
-	> 280351
-Grade: 0 bulls and 6 cows
+	> bjf2k4
+Grade: 1 bull and 5 cows
 Turn 285:
-	> 820351
-Grade: 1 bull and 5 cows
+	> jbf2k4
+Grade: 2 bulls and 4 cows
 Turn 286:
-	> 830251
-Grade: 0 bulls and 6 cows
+	> kbf2j4
+Grade: 4 bulls and 2 cows
 Turn 287:
-	> 380251
-Grade: 0 bulls and 6 cows
+	> bkf2j4
+Grade: 2 bulls and 4 cows
 Turn 288:
-	> 083251
-Grade: 0 bulls and 6 cows
+	> fkb2j4
+Grade: 2 bulls and 4 cows
 Turn 289:
-	> 803251
-Grade: 0 bulls and 6 cows
+	> kfb2j4
+Grade: 3 bulls and 3 cows
 Turn 290:
-	> 308251
-Grade: 1 bull and 5 cows
+	> bfk2j4
+Grade: 2 bulls and 4 cows
 Turn 291:
-	> 038251
-Grade: 1 bull and 5 cows
+	> fbk2j4
+Grade: 3 bulls and 3 cows
 Turn 292:
-	> 032851
-Grade: 0 bulls and 6 cows
+	> 2bkfj4
+Grade: 2 bulls and 4 cows
 Turn 293:
-	> 302851
-Grade: 0 bulls and 6 cows
+	> b2kfj4
+Grade: 1 bull and 5 cows
 Turn 294:
-	> 203851
-Grade: 0 bulls and 6 cows
+	> k2bfj4
+Grade: 2 bulls and 4 cows
 Turn 295:
-	> 023851
+	> 2kbfj4
 Grade: 1 bull and 5 cows
 Turn 296:
-	> 320851
+	> bk2fj4
 Grade: 1 bull and 5 cows
 Turn 297:
-	> 230851
-Grade: 0 bulls and 6 cows
+	> kb2fj4
+Grade: 3 bulls and 3 cows
 Turn 298:
-	> 530821
-Grade: 0 bulls and 6 cows
+	> kf2bj4
+Grade: 2 bulls and 4 cows
 Turn 299:
-	> 350821
-Grade: 0 bulls and 6 cows
-Turn 300:
-	> 053821
-Grade: 0 bulls and 6 cows
-Turn 301:
-	> 503821
-Grade: 0 bulls and 6 cows
-Turn 302:
-	> 305821
-Grade: 0 bulls and 6 cows
-Turn 303:
-	> 035821
-Grade: 0 bulls and 6 cows
-Turn 304:
-	> 835021
-Grade: 0 bulls and 6 cows
-Turn 305:
-	> 385021
-Grade: 0 bulls and 6 cows
-Turn 306:
-	> 583021
-Grade: 0 bulls and 6 cows
-Turn 307:
-	> 853021
-Grade: 0 bulls and 6 cows
-Turn 308:
-	> 358021
+	> fk2bj4
 Grade: 1 bull and 5 cows
+Turn 300:
+	> 2kfbj4
+Grade: 1 bull and 5 cows
+Turn 301:
+	> k2fbj4
+Grade: 2 bulls and 4 cows
+Turn 302:
+	> f2kbj4
+Grade: 1 bull and 5 cows
+Turn 303:
+	> 2fkbj4
+Grade: 1 bull and 5 cows
+Turn 304:
+	> 2fbkj4
+Grade: 1 bull and 5 cows
+Turn 305:
+	> f2bkj4
+Grade: 1 bull and 5 cows
+Turn 306:
+	> b2fkj4
+Grade: 1 bull and 5 cows
+Turn 307:
+	> 2bfkj4
+Grade: 2 bulls and 4 cows
+Turn 308:
+	> fb2kj4
+Grade: 2 bulls and 4 cows
 Turn 309:
-	> 538021
+	> bf2kj4
 Grade: 1 bull and 5 cows
 Turn 310:
-	> 508321
-Grade: 1 bull and 5 cows
+	> jf2kb4
+Grade: 0 bulls and 6 cows
 Turn 311:
-	> 058321
-Grade: 1 bull and 5 cows
+	> fj2kb4
+Grade: 0 bulls and 6 cows
 Turn 312:
-	> 850321
+	> 2jfkb4
 Grade: 0 bulls and 6 cows
 Turn 313:
-	> 580321
+	> j2fkb4
 Grade: 0 bulls and 6 cows
 Turn 314:
-	> 085321
+	> f2jkb4
 Grade: 0 bulls and 6 cows
 Turn 315:
-	> 805321
+	> 2fjkb4
 Grade: 0 bulls and 6 cows
 Turn 316:
-	> 803521
-Grade: 1 bull and 5 cows
+	> kfj2b4
+Grade: 2 bulls and 4 cows
 Turn 317:
-	> 083521
+	> fkj2b4
 Grade: 1 bull and 5 cows
 Turn 318:
-	> 380521
+	> jkf2b4
 Grade: 1 bull and 5 cows
 Turn 319:
-	> 830521
-Grade: 1 bull and 5 cows
+	> kjf2b4
+Grade: 2 bulls and 4 cows
 Turn 320:
-	> 038521
-Grade: 2 bulls and 4 cows
+	> fjk2b4
+Grade: 1 bull and 5 cows
 Turn 321:
-	> 308521
-Grade: 2 bulls and 4 cows
+	> jfk2b4
+Grade: 1 bull and 5 cows
 Turn 322:
-	> 208531
-Grade: 2 bulls and 4 cows
+	> j2kfb4
+Grade: 0 bulls and 6 cows
 Turn 323:
-	> 028531
-Grade: 3 bulls and 3 cows
+	> 2jkfb4
+Grade: 0 bulls and 6 cows
 Turn 324:
-	> 820531
-Grade: 2 bulls and 4 cows
+	> kj2fb4
+Grade: 1 bull and 5 cows
 Turn 325:
-	> 280531
-Grade: 1 bull and 5 cows
+	> jk2fb4
+Grade: 0 bulls and 6 cows
 Turn 326:
-	> 082531
-Grade: 1 bull and 5 cows
+	> 2kjfb4
+Grade: 0 bulls and 6 cows
 Turn 327:
-	> 802531
+	> k2jfb4
 Grade: 1 bull and 5 cows
 Turn 328:
-	> 502831
-Grade: 0 bulls and 6 cows
+	> k2fjb4
+Grade: 1 bull and 5 cows
 Turn 329:
-	> 052831
+	> 2kfjb4
 Grade: 0 bulls and 6 cows
 Turn 330:
-	> 250831
+	> fk2jb4
 Grade: 0 bulls and 6 cows
 Turn 331:
-	> 520831
+	> kf2jb4
 Grade: 1 bull and 5 cows
 Turn 332:
-	> 025831
-Grade: 1 bull and 5 cows
+	> 2fkjb4
+Grade: 0 bulls and 6 cows
 Turn 333:
-	> 205831
+	> f2kjb4
 Grade: 0 bulls and 6 cows
 Turn 334:
-	> 285031
+	> b2kjf4
 Grade: 0 bulls and 6 cows
 Turn 335:
-	> 825031
+	> 2bkjf4
 Grade: 1 bull and 5 cows
 Turn 336:
-	> 528031
+	> kb2jf4
 Grade: 2 bulls and 4 cows
 Turn 337:
-	> 258031
-Grade: 1 bull and 5 cows
+	> bk2jf4
+Grade: 0 bulls and 6 cows
 Turn 338:
-	> 852031
+	> 2kbjf4
 Grade: 0 bulls and 6 cows
 Turn 339:
-	> 582031
-Grade: 0 bulls and 6 cows
+	> k2bjf4
+Grade: 1 bull and 5 cows
 Turn 340:
-	> 580231
+	> j2bkf4
 Grade: 0 bulls and 6 cows
 Turn 341:
-	> 850231
+	> 2jbkf4
 Grade: 0 bulls and 6 cows
 Turn 342:
-	> 058231
-Grade: 1 bull and 5 cows
+	> bj2kf4
+Grade: 0 bulls and 6 cows
 Turn 343:
-	> 508231
+	> jb2kf4
 Grade: 1 bull and 5 cows
 Turn 344:
-	> 805231
-Grade: 0 bulls and 6 cows
+	> 2bjkf4
+Grade: 1 bull and 5 cows
 Turn 345:
-	> 085231
+	> b2jkf4
 Grade: 0 bulls and 6 cows
 Turn 346:
-	> 385201
+	> bkj2f4
 Grade: 1 bull and 5 cows
 Turn 347:
-	> 835201
-Grade: 1 bull and 5 cows
+	> kbj2f4
+Grade: 3 bulls and 3 cows
 Turn 348:
-	> 538201
+	> jbk2f4
 Grade: 2 bulls and 4 cows
 Turn 349:
-	> 358201
-Grade: 2 bulls and 4 cows
-Turn 350:
-	> 853201
+	> bjk2f4
 Grade: 1 bull and 5 cows
+Turn 350:
+	> kjb2f4
+Grade: 2 bulls and 4 cows
 Turn 351:
-	> 583201
+	> jkb2f4
 Grade: 1 bull and 5 cows
 Turn 352:
-	> 283501
-Grade: 2 bulls and 4 cows
+	> jk2bf4
+Grade: 0 bulls and 6 cows
 Turn 353:
-	> 823501
-Grade: 3 bulls and 3 cows
-Turn 354:
-	> 328501
-Grade: 4 bulls and 2 cows
-Turn 355:
-	> 238501
-Grade: 3 bulls and 3 cows
-Turn 356:
-	> 832501
-Grade: 2 bulls and 4 cows
-Turn 357:
-	> 382501
-Grade: 2 bulls and 4 cows
-Turn 358:
-	> 352801
+	> kj2bf4
 Grade: 1 bull and 5 cows
+Turn 354:
+	> 2jkbf4
+Grade: 0 bulls and 6 cows
+Turn 355:
+	> j2kbf4
+Grade: 0 bulls and 6 cows
+Turn 356:
+	> k2jbf4
+Grade: 1 bull and 5 cows
+Turn 357:
+	> 2kjbf4
+Grade: 0 bulls and 6 cows
+Turn 358:
+	> fkjb24
+Grade: 0 bulls and 6 cows
 Turn 359:
-	> 532801
+	> kfjb24
 Grade: 1 bull and 5 cows
 Turn 360:
-	> 235801
-Grade: 1 bull and 5 cows
+	> jfkb24
+Grade: 0 bulls and 6 cows
 Turn 361:
-	> 325801
-Grade: 2 bulls and 4 cows
+	> fjkb24
+Grade: 0 bulls and 6 cows
 Turn 362:
-	> 523801
-Grade: 2 bulls and 4 cows
+	> kjfb24
+Grade: 1 bull and 5 cows
 Turn 363:
-	> 253801
-Grade: 1 bull and 5 cows
+	> jkfb24
+Grade: 0 bulls and 6 cows
 Turn 364:
-	> 258301
-Grade: 2 bulls and 4 cows
+	> bkfj24
+Grade: 0 bulls and 6 cows
 Turn 365:
-	> 528301
-Grade: 3 bulls and 3 cows
-Turn 366:
-	> 825301
+	> kbfj24
 Grade: 2 bulls and 4 cows
-Turn 367:
-	> 285301
+Turn 366:
+	> fbkj24
 Grade: 1 bull and 5 cows
+Turn 367:
+	> bfkj24
+Grade: 0 bulls and 6 cows
 Turn 368:
-	> 582301
+	> kfbj24
 Grade: 1 bull and 5 cows
 Turn 369:
-	> 852301
-Grade: 1 bull and 5 cows
+	> fkbj24
+Grade: 0 bulls and 6 cows
 Turn 370:
-	> 851302
-Grade: 1 bull and 5 cows
+	> fjbk24
+Grade: 0 bulls and 6 cows
 Turn 371:
-	> 581302
-Grade: 1 bull and 5 cows
+	> jfbk24
+Grade: 0 bulls and 6 cows
 Turn 372:
-	> 185302
-Grade: 2 bulls and 4 cows
+	> bfjk24
+Grade: 0 bulls and 6 cows
 Turn 373:
-	> 815302
+	> fbjk24
 Grade: 1 bull and 5 cows
 Turn 374:
-	> 518302
-Grade: 2 bulls and 4 cows
+	> jbfk24
+Grade: 1 bull and 5 cows
 Turn 375:
-	> 158302
-Grade: 3 bulls and 3 cows
+	> bjfk24
+Grade: 0 bulls and 6 cows
 Turn 376:
-	> 358102
-Grade: 2 bulls and 4 cows
+	> bjkf24
+Grade: 0 bulls and 6 cows
 Turn 377:
-	> 538102
-Grade: 2 bulls and 4 cows
+	> jbkf24
+Grade: 1 bull and 5 cows
 Turn 378:
-	> 835102
-Grade: 1 bull and 5 cows
+	> kbjf24
+Grade: 2 bulls and 4 cows
 Turn 379:
-	> 385102
-Grade: 1 bull and 5 cows
+	> bkjf24
+Grade: 0 bulls and 6 cows
 Turn 380:
-	> 583102
-Grade: 1 bull and 5 cows
+	> jkbf24
+Grade: 0 bulls and 6 cows
 Turn 381:
-	> 853102
+	> kjbf24
 Grade: 1 bull and 5 cows
 Turn 382:
-	> 813502
+	> kj4f2b
 Grade: 2 bulls and 4 cows
 Turn 383:
-	> 183502
-Grade: 3 bulls and 3 cows
-Turn 384:
-	> 381502
-Grade: 2 bulls and 4 cows
-Turn 385:
-	> 831502
-Grade: 2 bulls and 4 cows
-Turn 386:
-	> 138502
-Grade: 4 bulls and 2 cows
-Turn 387:
-	> 318502
-Grade: 3 bulls and 3 cows
-Turn 388:
-	> 315802
+	> jk4f2b
 Grade: 1 bull and 5 cows
+Turn 384:
+	> 4kjf2b
+Grade: 0 bulls and 6 cows
+Turn 385:
+	> k4jf2b
+Grade: 1 bull and 5 cows
+Turn 386:
+	> j4kf2b
+Grade: 0 bulls and 6 cows
+Turn 387:
+	> 4jkf2b
+Grade: 0 bulls and 6 cows
+Turn 388:
+	> fjk42b
+Grade: 0 bulls and 6 cows
 Turn 389:
-	> 135802
-Grade: 2 bulls and 4 cows
+	> jfk42b
+Grade: 0 bulls and 6 cows
 Turn 390:
-	> 531802
+	> kfj42b
 Grade: 1 bull and 5 cows
 Turn 391:
-	> 351802
-Grade: 1 bull and 5 cows
+	> fkj42b
+Grade: 0 bulls and 6 cows
 Turn 392:
-	> 153802
-Grade: 2 bulls and 4 cows
+	> jkf42b
+Grade: 0 bulls and 6 cows
 Turn 393:
-	> 513802
+	> kjf42b
 Grade: 1 bull and 5 cows
 Turn 394:
-	> 013852
-Grade: 0 bulls and 6 cows
+	> k4fj2b
+Grade: 1 bull and 5 cows
 Turn 395:
-	> 103852
-Grade: 1 bull and 5 cows
+	> 4kfj2b
+Grade: 0 bulls and 6 cows
 Turn 396:
-	> 301852
-Grade: 0 bulls and 6 cows
-Turn 397:
-	> 031852
-Grade: 0 bulls and 6 cows
-Turn 398:
-	> 130852
+	> fk4j2b
 Grade: 1 bull and 5 cows
+Turn 397:
+	> kf4j2b
+Grade: 2 bulls and 4 cows
+Turn 398:
+	> 4fkj2b
+Grade: 0 bulls and 6 cows
 Turn 399:
-	> 310852
+	> f4kj2b
 Grade: 0 bulls and 6 cows
 Turn 400:
-	> 810352
+	> f4jk2b
 Grade: 0 bulls and 6 cows
 Turn 401:
-	> 180352
-Grade: 1 bull and 5 cows
+	> 4fjk2b
+Grade: 0 bulls and 6 cows
 Turn 402:
-	> 081352
-Grade: 0 bulls and 6 cows
-Turn 403:
-	> 801352
-Grade: 0 bulls and 6 cows
-Turn 404:
-	> 108352
-Grade: 2 bulls and 4 cows
-Turn 405:
-	> 018352
+	> jf4k2b
 Grade: 1 bull and 5 cows
+Turn 403:
+	> fj4k2b
+Grade: 1 bull and 5 cows
+Turn 404:
+	> 4jfk2b
+Grade: 0 bulls and 6 cows
+Turn 405:
+	> j4fk2b
+Grade: 0 bulls and 6 cows
 Turn 406:
-	> 038152
+	> 24fkjb
 Grade: 1 bull and 5 cows
 Turn 407:
-	> 308152
+	> 42fkjb
 Grade: 1 bull and 5 cows
 Turn 408:
-	> 803152
-Grade: 0 bulls and 6 cows
+	> f24kjb
+Grade: 2 bulls and 4 cows
 Turn 409:
-	> 083152
-Grade: 0 bulls and 6 cows
+	> 2f4kjb
+Grade: 2 bulls and 4 cows
 Turn 410:
-	> 380152
-Grade: 0 bulls and 6 cows
-Turn 411:
-	> 830152
-Grade: 0 bulls and 6 cows
-Turn 412:
-	> 831052
-Grade: 0 bulls and 6 cows
-Turn 413:
-	> 381052
-Grade: 0 bulls and 6 cows
-Turn 414:
-	> 183052
+	> 4f2kjb
 Grade: 1 bull and 5 cows
+Turn 411:
+	> f42kjb
+Grade: 1 bull and 5 cows
+Turn 412:
+	> k42fjb
+Grade: 2 bulls and 4 cows
+Turn 413:
+	> 4k2fjb
+Grade: 1 bull and 5 cows
+Turn 414:
+	> 2k4fjb
+Grade: 2 bulls and 4 cows
 Turn 415:
-	> 813052
-Grade: 0 bulls and 6 cows
+	> k24fjb
+Grade: 3 bulls and 3 cows
 Turn 416:
-	> 318052
+	> 42kfjb
 Grade: 1 bull and 5 cows
 Turn 417:
-	> 138052
-Grade: 2 bulls and 4 cows
+	> 24kfjb
+Grade: 1 bull and 5 cows
 Turn 418:
-	> 538012
+	> 2fk4jb
 Grade: 1 bull and 5 cows
 Turn 419:
-	> 358012
+	> f2k4jb
 Grade: 1 bull and 5 cows
 Turn 420:
-	> 853012
-Grade: 0 bulls and 6 cows
+	> k2f4jb
+Grade: 2 bulls and 4 cows
 Turn 421:
-	> 583012
-Grade: 0 bulls and 6 cows
-Turn 422:
-	> 385012
-Grade: 0 bulls and 6 cows
-Turn 423:
-	> 835012
-Grade: 0 bulls and 6 cows
-Turn 424:
-	> 035812
-Grade: 0 bulls and 6 cows
-Turn 425:
-	> 305812
-Grade: 0 bulls and 6 cows
-Turn 426:
-	> 503812
-Grade: 0 bulls and 6 cows
-Turn 427:
-	> 053812
-Grade: 0 bulls and 6 cows
-Turn 428:
-	> 350812
-Grade: 0 bulls and 6 cows
-Turn 429:
-	> 530812
-Grade: 0 bulls and 6 cows
-Turn 430:
-	> 580312
-Grade: 0 bulls and 6 cows
-Turn 431:
-	> 850312
-Grade: 0 bulls and 6 cows
-Turn 432:
-	> 058312
+	> 2kf4jb
 Grade: 1 bull and 5 cows
+Turn 422:
+	> fk24jb
+Grade: 1 bull and 5 cows
+Turn 423:
+	> kf24jb
+Grade: 2 bulls and 4 cows
+Turn 424:
+	> kf42jb
+Grade: 4 bulls and 2 cows
+Turn 425:
+	> fk42jb
+Grade: 3 bulls and 3 cows
+Turn 426:
+	> 4kf2jb
+Grade: 2 bulls and 4 cows
+Turn 427:
+	> k4f2jb
+Grade: 3 bulls and 3 cows
+Turn 428:
+	> f4k2jb
+Grade: 2 bulls and 4 cows
+Turn 429:
+	> 4fk2jb
+Grade: 2 bulls and 4 cows
+Turn 430:
+	> jfk24b
+Grade: 1 bull and 5 cows
+Turn 431:
+	> fjk24b
+Grade: 1 bull and 5 cows
+Turn 432:
+	> kjf24b
+Grade: 2 bulls and 4 cows
 Turn 433:
-	> 508312
+	> jkf24b
 Grade: 1 bull and 5 cows
 Turn 434:
-	> 805312
-Grade: 0 bulls and 6 cows
+	> fkj24b
+Grade: 1 bull and 5 cows
 Turn 435:
-	> 085312
-Grade: 0 bulls and 6 cows
+	> kfj24b
+Grade: 2 bulls and 4 cows
 Turn 436:
-	> 083512
-Grade: 1 bull and 5 cows
+	> 2fjk4b
+Grade: 0 bulls and 6 cows
 Turn 437:
-	> 803512
-Grade: 1 bull and 5 cows
+	> f2jk4b
+Grade: 0 bulls and 6 cows
 Turn 438:
-	> 308512
-Grade: 2 bulls and 4 cows
+	> j2fk4b
+Grade: 0 bulls and 6 cows
 Turn 439:
-	> 038512
-Grade: 2 bulls and 4 cows
+	> 2jfk4b
+Grade: 0 bulls and 6 cows
 Turn 440:
-	> 830512
-Grade: 1 bull and 5 cows
+	> fj2k4b
+Grade: 0 bulls and 6 cows
 Turn 441:
-	> 380512
-Grade: 1 bull and 5 cows
+	> jf2k4b
+Grade: 0 bulls and 6 cows
 Turn 442:
-	> 180532
-Grade: 2 bulls and 4 cows
+	> jk2f4b
+Grade: 0 bulls and 6 cows
 Turn 443:
-	> 810532
+	> kj2f4b
 Grade: 1 bull and 5 cows
 Turn 444:
-	> 018532
-Grade: 2 bulls and 4 cows
+	> 2jkf4b
+Grade: 0 bulls and 6 cows
 Turn 445:
-	> 108532
-Grade: 3 bulls and 3 cows
+	> j2kf4b
+Grade: 0 bulls and 6 cows
 Turn 446:
-	> 801532
+	> k2jf4b
 Grade: 1 bull and 5 cows
 Turn 447:
-	> 081532
-Grade: 1 bull and 5 cows
+	> 2kjf4b
+Grade: 0 bulls and 6 cows
 Turn 448:
-	> 581032
+	> 2kfj4b
 Grade: 0 bulls and 6 cows
 Turn 449:
-	> 851032
-Grade: 0 bulls and 6 cows
+	> k2fj4b
+Grade: 1 bull and 5 cows
 Turn 450:
-	> 158032
-Grade: 2 bulls and 4 cows
+	> f2kj4b
+Grade: 0 bulls and 6 cows
 Turn 451:
-	> 518032
-Grade: 1 bull and 5 cows
+	> 2fkj4b
+Grade: 0 bulls and 6 cows
 Turn 452:
-	> 815032
-Grade: 0 bulls and 6 cows
+	> kf2j4b
+Grade: 1 bull and 5 cows
 Turn 453:
-	> 185032
-Grade: 1 bull and 5 cows
-Turn 454:
-	> 105832
-Grade: 1 bull and 5 cows
-Turn 455:
-	> 015832
+	> fk2j4b
 Grade: 0 bulls and 6 cows
+Turn 454:
+	> 4k2jfb
+Grade: 0 bulls and 6 cows
+Turn 455:
+	> k42jfb
+Grade: 1 bull and 5 cows
 Turn 456:
-	> 510832
+	> 24kjfb
 Grade: 0 bulls and 6 cows
 Turn 457:
-	> 150832
-Grade: 1 bull and 5 cows
+	> 42kjfb
+Grade: 0 bulls and 6 cows
 Turn 458:
-	> 051832
-Grade: 0 bulls and 6 cows
+	> k24jfb
+Grade: 2 bulls and 4 cows
 Turn 459:
-	> 501832
-Grade: 0 bulls and 6 cows
+	> 2k4jfb
+Grade: 1 bull and 5 cows
 Turn 460:
-	> 508132
-Grade: 1 bull and 5 cows
+	> jk42fb
+Grade: 2 bulls and 4 cows
 Turn 461:
-	> 058132
-Grade: 1 bull and 5 cows
+	> kj42fb
+Grade: 3 bulls and 3 cows
 Turn 462:
-	> 850132
-Grade: 0 bulls and 6 cows
+	> 4jk2fb
+Grade: 1 bull and 5 cows
 Turn 463:
-	> 580132
-Grade: 0 bulls and 6 cows
+	> j4k2fb
+Grade: 1 bull and 5 cows
 Turn 464:
-	> 085132
-Grade: 0 bulls and 6 cows
+	> k4j2fb
+Grade: 2 bulls and 4 cows
 Turn 465:
-	> 805132
-Grade: 0 bulls and 6 cows
+	> 4kj2fb
+Grade: 1 bull and 5 cows
 Turn 466:
-	> 305182
+	> 42jkfb
 Grade: 0 bulls and 6 cows
 Turn 467:
-	> 035182
+	> 24jkfb
 Grade: 0 bulls and 6 cows
 Turn 468:
-	> 530182
+	> j42kfb
 Grade: 0 bulls and 6 cows
 Turn 469:
-	> 350182
+	> 4j2kfb
 Grade: 0 bulls and 6 cows
 Turn 470:
-	> 053182
-Grade: 0 bulls and 6 cows
-Turn 471:
-	> 503182
-Grade: 0 bulls and 6 cows
-Turn 472:
-	> 103582
-Grade: 2 bulls and 4 cows
-Turn 473:
-	> 013582
+	> 2j4kfb
 Grade: 1 bull and 5 cows
+Turn 471:
+	> j24kfb
+Grade: 1 bull and 5 cows
+Turn 472:
+	> j2k4fb
+Grade: 0 bulls and 6 cows
+Turn 473:
+	> 2jk4fb
+Grade: 0 bulls and 6 cows
 Turn 474:
-	> 310582
+	> kj24fb
 Grade: 1 bull and 5 cows
 Turn 475:
-	> 130582
-Grade: 2 bulls and 4 cows
+	> jk24fb
+Grade: 0 bulls and 6 cows
 Turn 476:
-	> 031582
-Grade: 1 bull and 5 cows
+	> 2kj4fb
+Grade: 0 bulls and 6 cows
 Turn 477:
-	> 301582
+	> k2j4fb
 Grade: 1 bull and 5 cows
 Turn 478:
-	> 351082
+	> f2j4kb
 Grade: 0 bulls and 6 cows
 Turn 479:
-	> 531082
+	> 2fj4kb
 Grade: 0 bulls and 6 cows
 Turn 480:
-	> 135082
-Grade: 1 bull and 5 cows
+	> jf24kb
+Grade: 0 bulls and 6 cows
 Turn 481:
-	> 315082
+	> fj24kb
 Grade: 0 bulls and 6 cows
 Turn 482:
-	> 513082
+	> 2jf4kb
 Grade: 0 bulls and 6 cows
 Turn 483:
-	> 153082
-Grade: 1 bull and 5 cows
+	> j2f4kb
+Grade: 0 bulls and 6 cows
 Turn 484:
-	> 150382
-Grade: 1 bull and 5 cows
+	> 42fjkb
+Grade: 0 bulls and 6 cows
 Turn 485:
-	> 510382
+	> 24fjkb
 Grade: 0 bulls and 6 cows
 Turn 486:
-	> 015382
+	> f42jkb
 Grade: 0 bulls and 6 cows
 Turn 487:
-	> 105382
-Grade: 1 bull and 5 cows
+	> 4f2jkb
+Grade: 0 bulls and 6 cows
 Turn 488:
-	> 501382
-Grade: 0 bulls and 6 cows
+	> 2f4jkb
+Grade: 1 bull and 5 cows
 Turn 489:
-	> 051382
-Grade: 0 bulls and 6 cows
+	> f24jkb
+Grade: 1 bull and 5 cows
 Turn 490:
-	> 051283
-Grade: 1 bull and 5 cows
-Turn 491:
-	> 501283
-Grade: 1 bull and 5 cows
-Turn 492:
-	> 105283
+	> fj42kb
 Grade: 2 bulls and 4 cows
+Turn 491:
+	> jf42kb
+Grade: 2 bulls and 4 cows
+Turn 492:
+	> 4fj2kb
+Grade: 1 bull and 5 cows
 Turn 493:
-	> 015283
+	> f4j2kb
 Grade: 1 bull and 5 cows
 Turn 494:
-	> 510283
+	> j4f2kb
 Grade: 1 bull and 5 cows
 Turn 495:
-	> 150283
-Grade: 2 bulls and 4 cows
+	> 4jf2kb
+Grade: 1 bull and 5 cows
 Turn 496:
-	> 250183
-Grade: 1 bull and 5 cows
+	> 4j2fkb
+Grade: 0 bulls and 6 cows
 Turn 497:
-	> 520183
-Grade: 2 bulls and 4 cows
+	> j42fkb
+Grade: 0 bulls and 6 cows
 Turn 498:
-	> 025183
-Grade: 2 bulls and 4 cows
+	> 24jfkb
+Grade: 0 bulls and 6 cows
 Turn 499:
-	> 205183
-Grade: 1 bull and 5 cows
+	> 42jfkb
+Grade: 0 bulls and 6 cows
 Turn 500:
-	> 502183
+	> j24fkb
 Grade: 1 bull and 5 cows
 Turn 501:
-	> 052183
+	> 2j4fkb
 Grade: 1 bull and 5 cows
 Turn 502:
-	> 012583
+	> 2j4bkf
 Grade: 2 bulls and 4 cows
 Turn 503:
-	> 102583
-Grade: 3 bulls and 3 cows
+	> j24bkf
+Grade: 2 bulls and 4 cows
 Turn 504:
-	> 201583
-Grade: 2 bulls and 4 cows
+	> 42jbkf
+Grade: 1 bull and 5 cows
 Turn 505:
-	> 021583
-Grade: 3 bulls and 3 cows
+	> 24jbkf
+Grade: 1 bull and 5 cows
 Turn 506:
-	> 120583
-Grade: 4 bulls and 2 cows
+	> j42bkf
+Grade: 1 bull and 5 cows
 Turn 507:
-	> 210583
-Grade: 2 bulls and 4 cows
+	> 4j2bkf
+Grade: 1 bull and 5 cows
 Turn 508:
-	> 215083
+	> bj24kf
 Grade: 1 bull and 5 cows
 Turn 509:
-	> 125083
-Grade: 3 bulls and 3 cows
+	> jb24kf
+Grade: 2 bulls and 4 cows
 Turn 510:
-	> 521083
+	> 2bj4kf
 Grade: 2 bulls and 4 cows
 Turn 511:
-	> 251083
+	> b2j4kf
 Grade: 1 bull and 5 cows
 Turn 512:
-	> 152083
-Grade: 2 bulls and 4 cows
+	> j2b4kf
+Grade: 1 bull and 5 cows
 Turn 513:
-	> 512083
+	> 2jb4kf
 Grade: 1 bull and 5 cows
 Turn 514:
-	> 812053
+	> 24bjkf
 Grade: 1 bull and 5 cows
 Turn 515:
-	> 182053
-Grade: 2 bulls and 4 cows
-Turn 516:
-	> 281053
+	> 42bjkf
 Grade: 1 bull and 5 cows
+Turn 516:
+	> b24jkf
+Grade: 2 bulls and 4 cows
 Turn 517:
-	> 821053
-Grade: 2 bulls and 4 cows
+	> 2b4jkf
+Grade: 3 bulls and 3 cows
 Turn 518:
-	> 128053
-Grade: 4 bulls and 2 cows
-Turn 519:
-	> 218053
+	> 4b2jkf
 Grade: 2 bulls and 4 cows
+Turn 519:
+	> b42jkf
+Grade: 1 bull and 5 cows
 Turn 520:
-	> 018253
+	> b4j2kf
 Grade: 2 bulls and 4 cows
 Turn 521:
-	> 108253
+	> 4bj2kf
 Grade: 3 bulls and 3 cows
 Turn 522:
-	> 801253
-Grade: 1 bull and 5 cows
+	> jb42kf
+Grade: 4 bulls and 2 cows
 Turn 523:
-	> 081253
-Grade: 1 bull and 5 cows
+	> bj42kf
+Grade: 3 bulls and 3 cows
 Turn 524:
-	> 180253
+	> 4jb2kf
 Grade: 2 bulls and 4 cows
 Turn 525:
-	> 810253
-Grade: 1 bull and 5 cows
+	> j4b2kf
+Grade: 2 bulls and 4 cows
 Turn 526:
-	> 820153
-Grade: 2 bulls and 4 cows
+	> k4b2jf
+Grade: 4 bulls and 2 cows
 Turn 527:
-	> 280153
-Grade: 1 bull and 5 cows
+	> 4kb2jf
+Grade: 3 bulls and 3 cows
 Turn 528:
-	> 082153
-Grade: 1 bull and 5 cows
+	> bk42jf
+Grade: 4 bulls and 2 cows
 Turn 529:
-	> 802153
-Grade: 1 bull and 5 cows
-Turn 530:
-	> 208153
-Grade: 2 bulls and 4 cows
-Turn 531:
-	> 028153
-Grade: 3 bulls and 3 cows
-Turn 532:
-	> 021853
-Grade: 2 bulls and 4 cows
-Turn 533:
-	> 201853
-Grade: 1 bull and 5 cows
-Turn 534:
-	> 102853
-Grade: 2 bulls and 4 cows
-Turn 535:
-	> 012853
-Grade: 1 bull and 5 cows
-Turn 536:
-	> 210853
-Grade: 1 bull and 5 cows
-Turn 537:
-	> 120853
-Grade: 3 bulls and 3 cows
-Turn 538:
-	> 520813
-Grade: 2 bulls and 4 cows
-Turn 539:
-	> 250813
-Grade: 1 bull and 5 cows
-Turn 540:
-	> 052813
-Grade: 1 bull and 5 cows
-Turn 541:
-	> 502813
-Grade: 1 bull and 5 cows
-Turn 542:
-	> 205813
-Grade: 1 bull and 5 cows
-Turn 543:
-	> 025813
-Grade: 2 bulls and 4 cows
-Turn 544:
-	> 825013
-Grade: 2 bulls and 4 cows
-Turn 545:
-	> 285013
-Grade: 1 bull and 5 cows
-Turn 546:
-	> 582013
-Grade: 1 bull and 5 cows
-Turn 547:
-	> 852013
-Grade: 1 bull and 5 cows
-Turn 548:
-	> 258013
-Grade: 2 bulls and 4 cows
-Turn 549:
-	> 528013
-Grade: 3 bulls and 3 cows
-Turn 550:
-	> 508213
-Grade: 2 bulls and 4 cows
-Turn 551:
-	> 058213
-Grade: 2 bulls and 4 cows
-Turn 552:
-	> 850213
-Grade: 1 bull and 5 cows
-Turn 553:
-	> 580213
-Grade: 1 bull and 5 cows
-Turn 554:
-	> 085213
-Grade: 1 bull and 5 cows
-Turn 555:
-	> 805213
-Grade: 1 bull and 5 cows
-Turn 556:
-	> 802513
-Grade: 2 bulls and 4 cows
-Turn 557:
-	> 082513
-Grade: 2 bulls and 4 cows
-Turn 558:
-	> 280513
-Grade: 2 bulls and 4 cows
-Turn 559:
-	> 820513
-Grade: 3 bulls and 3 cows
-Turn 560:
-	> 028513
-Grade: 4 bulls and 2 cows
-Turn 561:
-	> 208513
-Grade: 3 bulls and 3 cows
-Turn 562:
-	> 108523
-Grade: 4 bulls and 2 cows
-Turn 563:
-	> 018523
-Grade: 3 bulls and 3 cows
-Turn 564:
-	> 810523
-Grade: 2 bulls and 4 cows
-Turn 565:
-	> 180523
-Grade: 3 bulls and 3 cows
-Turn 566:
-	> 081523
-Grade: 2 bulls and 4 cows
-Turn 567:
-	> 801523
-Grade: 2 bulls and 4 cows
-Turn 568:
-	> 501823
-Grade: 1 bull and 5 cows
-Turn 569:
-	> 051823
-Grade: 1 bull and 5 cows
-Turn 570:
-	> 150823
-Grade: 2 bulls and 4 cows
-Turn 571:
-	> 510823
-Grade: 1 bull and 5 cows
-Turn 572:
-	> 015823
-Grade: 1 bull and 5 cows
-Turn 573:
-	> 105823
-Grade: 2 bulls and 4 cows
-Turn 574:
-	> 185023
-Grade: 2 bulls and 4 cows
-Turn 575:
-	> 815023
-Grade: 1 bull and 5 cows
-Turn 576:
-	> 518023
-Grade: 2 bulls and 4 cows
-Turn 577:
-	> 158023
-Grade: 3 bulls and 3 cows
-Turn 578:
-	> 851023
-Grade: 1 bull and 5 cows
-Turn 579:
-	> 581023
-Grade: 1 bull and 5 cows
-Turn 580:
-	> 580123
-Grade: 1 bull and 5 cows
-Turn 581:
-	> 850123
-Grade: 1 bull and 5 cows
-Turn 582:
-	> 058123
-Grade: 2 bulls and 4 cows
-Turn 583:
-	> 508123
-Grade: 2 bulls and 4 cows
-Turn 584:
-	> 805123
-Grade: 1 bull and 5 cows
-Turn 585:
-	> 085123
-Grade: 1 bull and 5 cows
-Turn 586:
-	> 285103
-Grade: 2 bulls and 4 cows
-Turn 587:
-	> 825103
-Grade: 3 bulls and 3 cows
-Turn 588:
-	> 528103
-Grade: 4 bulls and 2 cows
-Turn 589:
-	> 258103
-Grade: 3 bulls and 3 cows
-Turn 590:
-	> 852103
-Grade: 2 bulls and 4 cows
-Turn 591:
-	> 582103
-Grade: 2 bulls and 4 cows
-Turn 592:
-	> 182503
-Grade: 4 bulls and 2 cows
-Turn 593:
-	> 812503
-Grade: 3 bulls and 3 cows
-Turn 594:
-	> 218503
-Grade: 4 bulls and 2 cows
-Turn 595:
-	> 128503
+	> kb42jf
 Grade: 6 bulls and 0 cows
 /Congratulations! You guessed the secret code.
 [1;31m
-Start test 4[0m
-)Please, enter the secret code's length:
-> 11
-fError: can't generate a secret number with a length of 11 because there aren't enough unique digits.
+Start test 7[0m
+&Input the length of the secret code:
+> 0
+3Input the number of possible symbols in the code:
+> 1
+@Error: The secret code must contain at least one valid symbol.
+[1;31m
+Start test 8[0m
+&Input the length of the secret code:
+> 10
+3Input the number of possible symbols in the code:
+> 9
+XError: it's not possible to generate a code with a length of 10 with 9 unique symbols.
+[1;31m
+Start test 9[0m
+&Input the length of the secret code:
+> 9
+3Input the number of possible symbols in the code:
+> 37
+HError: maximum number of possible symbols in the code is 36 (0-9, a-z)
+[1;31m
+Start test 10[0m
+&Input the length of the secret code:
+> abcdefg 1 -6
+)Error: the secret code must be numeric.

@@ -92,7 +92,7 @@ files:
 - name: src/bullscows/Grader.java
   visible: true
   learner_created: true
-feedback_link: https://hyperskill.org/projects/53/stages/287/implement#comment
+feedback_link: https://hyperskill.org/learn/step/5429#comment
 status: Solved
 feedback:
   message: Congratulations!
